@@ -8,8 +8,8 @@ He is currently a doctoral candidate in Zhejiang University. His research intere
 
 - **Yang Xu**, Ranghao Zheng, Meiqin Liu et al. **CRMI: Confidence-rich Mutual Information for Information-theoretic Mapping**, IEEE Robotics and Automation Letter (RAL) with IROS, 2021 (Under Review)
 - **Yang Xu**, Ranghao Zheng, Meiqin Liu et al. **Robust inertial-aided underwater localization and navigation based on imaging sonar keyframes**, Ocean Engineering, 2021 (Submitted)
-- **Yang Xu**, Ranghao Zheng, Meiqin Liu et al. **Keyframe-based imaging sonar localization and navigation using elastic windowed optimization**, IEEE/MTS OCEANS, 2020. [DOI: 10.1109/IEEECONF38699.2020.9389045](https://ieeexplore.ieee.org/document/9389045)
-
+- **Yang Xu**, Ranghao Zheng, Meiqin Liu et al. **Keyframe-based imaging sonar localization and navigation using elastic windowed optimization**, IEEE/MTS OCEANS, Singapore – U.S. Gulf Coast, pp. 1-7, 2020. [DOI: 10.1109/IEEECONF38699.2020.9389045](https://ieeexplore.ieee.org/document/9389045)
+ 
 ### Projects
 
 1. Exploration & Planning
