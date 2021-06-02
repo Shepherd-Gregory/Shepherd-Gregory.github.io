@@ -1,8 +1,8 @@
 ## About me
 
-### Breif bio
+### Brief bio
 
-He is currently a doctoral candidate in Zhejiang University. His research interests include perception and learning in robotics.
+He is currently a doctoral candidate at Zhejiang University. His research interests include perception and learning in robotics.
 
 ### Publications
 
