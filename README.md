@@ -19,5 +19,5 @@ He is currently a doctoral candidate at Zhejiang University. His research intere
 
 ### Useful links
 
-1. <https://scholar.google.com>
-2. <https://www.researchgate.net/profile/Yang-Xu-135>
+1. [Google scholar](https://scholar.google.com/citations?user=0jlkaLsAAAAJ&hl=zh-CN)
+2. [Researchgate](https://www.researchgate.net/profile/Yang-Xu-135)
