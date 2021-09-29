@@ -2,7 +2,7 @@
 
 ### Brief bio
 
-He is currently a doctoral candidate at Zhejiang University. His research interests include perception and learning in robotics.
+Yang XU is currently a doctoral candidate at Zhejiang University. His research interests include perception and learning in robotics.
 
 ### Publications
 
