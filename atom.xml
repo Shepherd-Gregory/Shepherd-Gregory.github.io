@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Shepherd-Gregory.github.io</id>
+    <title>Gridea</title>
+    <updated>2022-07-01T02:02:27.422Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Shepherd-Gregory.github.io"/>
+    <link rel="self" href="https://Shepherd-Gregory.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://Shepherd-Gregory.github.io/images/avatar.png</logo>
+    <icon>https://Shepherd-Gregory.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[My bio]]></title>
+        <id>https://Shepherd-Gregory.github.io/post/my-bio/</id>
+        <link href="https://Shepherd-Gregory.github.io/post/my-bio/">
+        </link>
+        <updated>2022-07-01T02:01:18.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="education">Education</h4>
+<ul>
+<li>PhD student in Electronics &amp; Information, ** Zhejiang University**, Sep. 2019 - Jun. 2023 (Expected), China</li>
+</ul>
+<h4 id="research-interests">Research Interests</h4>
+<p>His research interests include the perception, control and SLAM in robotics.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bio]]></title>
+        <id>https://Shepherd-Gregory.github.io/post/bio/</id>
+        <link href="https://Shepherd-Gregory.github.io/post/bio/">
+        </link>
+        <updated>2022-06-30T13:19:47.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="education">Education</h4>
+<ul>
+<li>PhD student in Electronics &amp; Information, ** Zhejiang University**, Sep. 2019 - Jun. 2023 (Expected), China</li>
+<li>Master of Engineering in Control Engineering, <strong>Fuzhou University</strong>, Sep. 2016 - Mar. 2019, China</li>
+<li>Bachelor of Engineering in Measurement &amp; Control Technology, <strong>Xiangtan University</strong>, Sep. 2010 - Jun. 2014, China.</li>
+</ul>
+<h4 id="research-interests">Research Interests</h4>
+<p>His research interests include the perception, control and SLAM in robotics.</p>
+<h4 id="other-experiences">Other Experiences</h4>
+<ul>
+<li>Electrical Engineer, Suzhou, China (Jun. 2014 - Apr. 2016)</li>
+<li>Software R&amp;D Intern, Huawei Technologies, Hangzhou, China (Jun. 2018 - Sep. 2018)</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Projects]]></title>
+        <id>https://Shepherd-Gregory.github.io/post/projects/</id>
+        <link href="https://Shepherd-Gregory.github.io/post/projects/">
+        </link>
+        <updated>2022-06-30T13:13:14.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p><strong>Learning-based informative path planning</strong> (Dec. 2021 - Now)<br>
+Utilize information theory and machine learning techniques to guide the robots to explore unknown and unstructured environments autonomously under the constraints of the real world. Our work mainly focuses on introducing more advanced learning techniques to handle the challenge of exploration and exploitation in robotic active sensing, as well as computational efficiency. (<em>Prepared for IEEE ICRA 2023</em>)</p>
+</li>
+<li>
+<p><strong>Information-based robot exploration with pose uncertainty</strong> (July 2021 - Nov. 2021)<br>
+Previous works concerned more about active mapping/exploration with known poses or utilize inaccurate information metrics, resulting in imbalanced exploration. We propose a Rao-Blackwellized particle filter-based confidence-rich localization and mapping (RBPF-CRLM) scheme with a new closed-form weighting method. We further compute the uncertain CRMI (UCRMI) with the weighted particles by a more accurate approximation. The localization accuracy and exploration performance of the proposed methods are shown in the unstructured environments. (<em>Accepted by IEEE IROS 2022 and submitted to T-Mech</em>)</p>
+</li>
+<li>
+<p><strong>Information-theoretic mapping for range sensing robots</strong> (Sept. 2020 - June 2021)<br>
+Traditional works based on hand-engineered inverse sensor model (ISM) mapping or kernel inference methods lead to imbalanced accuracy and efficiency. We propose a new approach to compute mutual information more accurately, based on the continuous belief distribution over the occupancy map and called confidence-rich mutual information (CRMI). Extensive simulations and experiments show the desired exploratory behavior to unexplored and obscured regions for CRMI-based robot controllers in the unstructured and cluttered scene, even in large scale environment. (<em>Accepted by both IEEE RA-L and IEEE IROS 2021</em>)</p>
+</li>
+<li>
+<p><strong>Imaging sonar-based underwater SLAM</strong> (July 2019 - August 2020)<br>
+The sparsity of underwater acoustic features and the loss of elevation angle in sonar images impose degeneracy cases in feature-based SLAM. We proposes a robust imaging sonar SLAM approach based on sonar keyframes (SKFs) and an elastic sliding window optimization framework to handle these degeneracy cases. (<em>Accepted by IEEE/MTS OCEANS 2020 and IEEE Trans. on Instrumentation &amp; Measurement 2022</em>)</p>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publications]]></title>
+        <id>https://Shepherd-Gregory.github.io/post/publications/</id>
+        <link href="https://Shepherd-Gregory.github.io/post/publications/">
+        </link>
+        <updated>2022-06-30T13:06:47.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li><strong>Y. Xu</strong>, R. Zheng, M. Liu et al. CRMI: Confidence-Rich Mutual Information for Information-Theoretic Mapping, *IEEE Robotics and Automation Letters *(RA-L) &amp; IROS 2021, 6(4), 6434-6441, 2021.</li>
+<li><strong>Y. Xu</strong>, R. Zheng, M. Liu et al. Robust Inertial-aided Underwater Localization based on Imaging Sonar Keyframes, <em>IEEE Transactions on Instrumentation and Measurement</em>, 71(7501812), 2022.</li>
+<li><strong>Y. Xu</strong>, R. Zheng, M. Liu et al. Particle Filter-based Confidence-rich Localization and Mapping for Robotic Exploration, <em>2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>.</li>
+<li>R. Bai, R. Zheng, <strong>Y. Xu</strong>, M. Liu et al. Hierarchical Multi-robot Strategies Synthesis and Optimization under Individual and Collaborative Temporal Logic Specifications, <em>Robotics and Autonomous Systems</em>, 153(104085) , 2022.</li>
+<li><strong>Y. Xu</strong>, R. Zheng, M. Liu et al. Keyframe-Based Imaging Sonar Localization and Navigation using Elastic Windowed Optimization, <em>IEEE/MTS GLOBAL OCEANS</em>, 2020, pp. 1-7.</li>
+<li><strong>Y. Xu</strong>, R. Zheng, M. Liu et al. CLAM: Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration, submitted to <em>IEEE/ASME Transactions on Mechatronics</em>, 2022.</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yang XU (徐阳)]]></title>
+        <id>https://Shepherd-Gregory.github.io/post/yang-xu/</id>
+        <link href="https://Shepherd-Gregory.github.io/post/yang-xu/">
+        </link>
+        <updated>2022-06-30T13:04:58.000Z</updated>
+        <content type="html"><![CDATA[<p>He is currently a doctoral candidate in Zhejiang University. His research interests include SLAM and machine learning in robotics.</p>
+]]></content>
+    </entry>
+</feed>
