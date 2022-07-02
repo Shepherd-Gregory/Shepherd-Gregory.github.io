@@ -15,9 +15,11 @@ I am currently a Ph.D. candidate at Zhejiang University, under the supervision o
 - <font color="#dd0000">2022.06.30</font> One paper got accepted by **IROS 2022**.
 - <font color="#dd0000">2022.03.14</font> One co-authored paper was accepted by **Robotics and Autonomous Systems (RAS)**, congrats to **Ruofei** !
 - <font color="#dd0000">2022.02.24</font> One paper got accepted by **IEEE Transactions on Instrumentation and Measurement (TIM)**.
-- <font color="#dd0000">2021.09.30</font> I gave an oral presentation on **IROS 2021**.
+- <font color="#dd0000">2021.09.30</font> I gave an oral presentation on **IROS 2021**. Video here: [Youtube](https://youtu.be/pUcGST2W_m8), [Bilibili](https://www.bilibili.com/video/BV1vQ4y1e77y?share_source=copy_web)
 - <font color="#dd0000">2021.07.01</font> One paper got accepted by **IROS 2021**.
 - <font color="#dd0000">2021.06.14</font> One paper got accepted by **IEEE Robotics and Automation Letters (RA-L)** .
+- <font color="#dd0000">2020.10.05</font> I gave an oral presentation on **IEEE/MTS OCEANS 2020**.
+- <font color="#dd0000">2020.07.20</font> One paper got accepted by **IEEE/MTS OCEANS 2020** .
 
 ---
 
