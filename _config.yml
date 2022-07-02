@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Yang XU's Homepage]
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
