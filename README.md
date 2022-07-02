@@ -12,12 +12,12 @@ I am currently a Ph.D. candidate at Zhejiang University, under the supervision o
 
 ### <font color="#0000dd">News</font>
 
-- <font color="#dd0000">2022.06.30</font>:one paper got accepted by **IROS 2022**.
-- <font color="#dd0000">2022.03.14</font>:one co-authored paper was accepted by **Robotics and Autonomous Systems (RAS)**, congrats to **Ruofei** !
-- <font color="#dd0000">2022.02.24</font>:one paper got accepted by **IEEE Transactions on Instrumentation and Measurement (TIM)**.
-- <font color="#dd0000">2021.09.30</font>:I gave an oral presentation on **IROS 2021**.
-- <font color="#dd0000">2021.07.01</font>:one paper got accepted by **IROS 2021**.
-- <font color="#dd0000">2021.06.14</font>:one paper got accepted by **IEEE Robotics and Automation Letters (RA-L)** .
+- <font color="#dd0000">2022.06.30</font> One paper got accepted by **IROS 2022**.
+- <font color="#dd0000">2022.03.14</font> One co-authored paper was accepted by **Robotics and Autonomous Systems (RAS)**, congrats to **Ruofei** !
+- <font color="#dd0000">2022.02.24</font> One paper got accepted by **IEEE Transactions on Instrumentation and Measurement (TIM)**.
+- <font color="#dd0000">2021.09.30</font> I gave an oral presentation on **IROS 2021**.
+- <font color="#dd0000">2021.07.01</font> One paper got accepted by **IROS 2021**.
+- <font color="#dd0000">2021.06.14</font> One paper got accepted by **IEEE Robotics and Automation Letters (RA-L)** .
 
 ---
 
