@@ -53,7 +53,7 @@ I am currently a Ph.D. candidate at Zhejiang University, under the supervision o
 
 - **Information-theoretic mapping for range sensing robots** (Sept. 2020 - June 2021)
 
-  Traditional works based on hand-engineered inverse sensor model (ISM) mapping or kernel inference methods lead to imbalanced accuracy and efficiency. We propose a new approach to compute mutual information more accurately, based on the continuous belief distribution over the occupancy map and called confidence-rich mutual information (CRMI). Extensive simulations and experiments show the desired exploratory behavior to unexplored and obscured regions for CRMI-based robot controllers in the unstructured and cluttered scene, even in large scale environment. (*Accepted by both IEEE RA-L and IEEE IROS 2021*)
+  Traditional works based on hand-engineered inverse sensor model (ISM) mapping or kernel inference methods lead to imbalanced accuracy and efficiency. We propose a new approach to compute mutual information more accurately, based on the continuous belief distribution over the occupancy map and called confidence-rich mutual information (CRMI). Extensive simulations and experiments show the desired exploratory behavior to unexplored and obscured regions for CRMI-based robot controllers in the unstructured and cluttered scene, even in large scale environment. (*Accepted by both IEEE RA-L and IEEE IROS 2021*) [[Code for CRMI]](https://github.com/Shepherd-Gregory/CRMI), [[Code for CRM]](https://github.com/Shepherd-Gregory/confidence_rich_mapping)
 
 - **Imaging sonar-based underwater SLAM** (Jul. 2019 - Aug. 2020)
 
