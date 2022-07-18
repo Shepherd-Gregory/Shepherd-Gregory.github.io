@@ -68,7 +68,7 @@ I am currently a Ph.D. candidate at Zhejiang University, under the supervision o
 ### <font color="#0000dd">Academic Services</font>
 
 - IEEE Student Member
-- Reviewer for IROS, IEEE/CAA Journal of Automatica Sinica (JAS), China Control Conference (CCC)
+- Reviewer for IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems), JAS (IEEE/CAA Journal of Automatica Sinica), CCC (China Control Conference)
 
 ---
 
