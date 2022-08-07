@@ -1,6 +1,6 @@
 ## <font color="#0000dd">Yang XU (徐阳)</font>
 
-*Cherish your love and family.*
+*Cherish your family and what you love to.*
 
 <img src="snowyoung.jpg" alt="snowyoung" style="zoom: 25%;" />
 
