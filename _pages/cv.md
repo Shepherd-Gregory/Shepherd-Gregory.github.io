@@ -17,12 +17,9 @@ Education
 
 Work experience
 ======
+* Fall 2022: Visiting scholar
+  - Robotics Institute, University of Technology Sydney (UTS)
 * Summer 2017: Unmanned System R&D Intern
   - Aerotiger Institute, Fuzhou, China
 * Summer 2018: Software R&D Intern
   * Huawei Technologies, Hangzhou, China
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>

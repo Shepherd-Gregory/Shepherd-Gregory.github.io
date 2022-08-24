@@ -16,7 +16,7 @@ I am currently a Ph.D. candidate at **Zhejiang University**, under the supervisi
 
 ### <font color="#0000dd">News</font>
 
-- <font color="#dd0000">2022.07.12</font> I get the CSC scholarship and will join Prof. [Shoudong Huang's](https://www.uts.edu.au/staff/shoudong.huang) Lab at the University of Technology Sydney (UTS) as a visiting student in Sept. (expected).
+- <font color="#dd0000">2022.07.12</font> I get the CSC scholarship and will join Prof. [Shoudong Huang's](https://www.uts.edu.au/staff/shoudong.huang) Lab at the University of Technology Sydney (UTS) as a visiting student in September 2022 (expected).
 - <font color="#dd0000">2022.06.30</font> One paper got accepted by **IROS 2022**.
 - <font color="#dd0000">2022.03.14</font> One co-authored paper was accepted by **Robotics and Autonomous Systems (RAS)**, congrats to **Ruofei** !
 - <font color="#dd0000">2022.02.24</font> One paper got accepted by **IEEE Transactions on Instrumentation and Measurement (TIM)**.

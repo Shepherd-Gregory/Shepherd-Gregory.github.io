@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-### <font color="#0000dd">Projects</font>
-
 - **Learning-based informative path planning** (Dec. 2021 - Now)
 
   Utilize information theory and machine learning techniques to guide the robots to explore unknown and unstructured environments autonomously under the constraints of the real world. Our work mainly focuses on introducing more advanced learning techniques to handle the challenge of exploration and exploitation in robotic active sensing, as well as computational efficiency. (*Prepared for IEEE ICRA 2023*)
