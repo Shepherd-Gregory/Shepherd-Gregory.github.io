@@ -1,88 +1,31 @@
-## <font color="#0000dd">Yang XU (徐阳)</font>
+A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
-*Cherish your family and what you love.*
+I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
-<img src="snowyoung.jpg" alt="snowyoung" style="zoom: 25%;" />
+### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
-### <font color="#0000dd">Brief bio</font>
+# Instructions
 
-I am currently a Ph.D. candidate at Zhejiang University, under the supervision of Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). My research interests include SLAM, control and planning in robotics.
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
----
+See more info at https://academicpages.github.io/
 
-### <font color="#0000dd">News</font>
+## To run locally (not on GitHub Pages, to serve on your own computer)
 
-- <font color="#dd0000">2022.07.12</font> I get the CSC scholarship and will join Prof. [Shoudong Huang's](https://www.uts.edu.au/staff/shoudong.huang) Lab at the University of Technology Sydney (UTS) as a visiting student in Sept. (expected).
-- <font color="#dd0000">2022.06.30</font> One paper got accepted by **IROS 2022**.
-- <font color="#dd0000">2022.03.14</font> One co-authored paper was accepted by **Robotics and Autonomous Systems (RAS)**, congrats to **Ruofei** !
-- <font color="#dd0000">2022.02.24</font> One paper got accepted by **IEEE Transactions on Instrumentation and Measurement (TIM)**.
-- <font color="#dd0000">2021.09.30</font> I gave an oral presentation on **IROS 2021**. Video here: [Youtube](https://youtu.be/pUcGST2W_m8), [Bilibili](https://www.bilibili.com/video/BV1vQ4y1e77y?share_source=copy_web)
-- <font color="#dd0000">2021.07.01</font> One paper got accepted by **IROS 2021**.
-- <font color="#dd0000">2021.06.14</font> One paper got accepted by **IEEE Robotics and Automation Letters (RA-L)** .
-- <font color="#dd0000">2020.10.05</font> I gave an oral presentation on **IEEE/MTS OCEANS 2020**.
-- <font color="#dd0000">2020.07.20</font> One paper got accepted by **IEEE/MTS OCEANS 2020** .
+1. Clone the repository and made updates as detailed above
+1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. Run `bundle clean` to clean up the directory (no need to run `--force`)
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
----
+# Changelog -- bugfixes and enhancements
 
-### <font color="#0000dd">Publications</font>
+There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
-##### <font color="#dd0000">Journal papers</font>
-
-- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **CRMI: Confidence-rich Mutual Information for Information-theoretic Mapping**, *IEEE Robotics and Automation Letters (**RA-L**)*, 6(4): 6434 - 6441, 2021. (presented at **IROS 2021**) [DOI: 10.1109/LRA.2021.3093023](https://ieeexplore.ieee.org/document/9466474).
-- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Robust inertial-aided underwater localization based on imaging sonar keyframes**, *IEEE Transactions on Instrumentation and Measurement (**TIM**)*, 71(7501812): 1 - 12, 2022. [DOI: 10.1109/TIM.2022.3156980](https://ieeexplore.ieee.org/document/9729232).
-- Ruofei Bai, Ronghao Zheng\*, **Yang Xu**, Meiqin Liu et al. **Hierarchical Multi-robot Strategies Synthesis and Optimization under Individual and Collaborative Temporal Logic Specifications**, *Robotics and Autonomous Systems*, 153(104085), 2022. [DOI:10.1016/j.robot.2022.104085](https://doi.org/10.1016/j.robot.2022.104085). 
-- **Yang Xu**, Ronghao Zheng*, Meiqin Liu et al.  **CLAM: Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**, submitted to *IEEE/ASME Transactions on Mechatronics* (**T-Mech**), 2022. 
-
-##### <font color="#dd0000">Conference papers</font>
-
-- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**, *IROS 2022*, accepted. [[Preprint on arxiv](https://arxiv.org/abs/2202.09631)]
-- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Keyframe-based imaging sonar localization and navigation using elastic windowed optimization**, *IEEE/MTS OCEANS*, Singapore – U.S. Gulf Coast, 2020: 1-7. [DOI: 10.1109/IEEECONF38699.2020.9389045](https://ieeexplore.ieee.org/document/9389045).
-- **Yang Xu**, Jun Wang, Jinhua Wang et al. **Nonlinear Formation Control of Small Fixed-Wing UAVs with Velocity and Heading Rate Constraints**, *2018 IEEE International Conference on Mechatronics and Automation (ICMA)*. 2018:1275-1280.
-
----
-
-### <font color="#0000dd">Projects</font>
-
-- **Learning-based informative path planning** (Dec. 2021 - Now)
-
-  Utilize information theory and machine learning techniques to guide the robots to explore unknown and unstructured environments autonomously under the constraints of the real world. Our work mainly focuses on introducing more advanced learning techniques to handle the challenge of exploration and exploitation in robotic active sensing, as well as computational efficiency. (*Prepared for IEEE ICRA 2023*)
-
-- **Information-based robot exploration with pose uncertainty** (Jul. 2021 - Nov. 2021)
-
-  Previous works concerned more about active mapping/exploration with known poses or utilize inaccurate information metrics, resulting in imbalanced exploration. We propose a Rao-Blackwellized particle filter-based confidence-rich localization and mapping (RBPF-CRLM) scheme with a new closed-form weighting method. We further compute the uncertain CRMI (UCRMI) with the weighted particles by a more accurate approximation. The localization accuracy and exploration performance of the proposed methods are shown in the unstructured environments. (*Accepted by IEEE IROS 2022 and submitted to T-Mech*)
-
-- **Information-theoretic mapping for range sensing robots** (Sept. 2020 - June 2021)
-
-  Traditional works based on hand-engineered inverse sensor model (ISM) mapping or kernel inference methods lead to imbalanced accuracy and efficiency. We propose a new approach to compute mutual information more accurately, based on the continuous belief distribution over the occupancy map and called confidence-rich mutual information (CRMI). Extensive simulations and experiments show the desired exploratory behavior to unexplored and obscured regions for CRMI-based robot controllers in the unstructured and cluttered scene, even in large scale environment. (*Accepted by both IEEE RA-L and IEEE IROS 2021*) [[Code for CRMI]](https://github.com/Shepherd-Gregory/CRMI), [[Code for CRM]](https://github.com/Shepherd-Gregory/confidence_rich_mapping)
-
-- **Imaging sonar-based underwater SLAM** (Jul. 2019 - Aug. 2020)
-
-  The sparsity of underwater acoustic features and the loss of elevation angle in sonar images impose degeneracy cases in feature-based SLAM. We proposes a robust imaging sonar SLAM approach based on sonar keyframes (SKFs) and an elastic sliding window optimization framework to handle these degeneracy cases. (*Accepted by IEEE/MTS OCEANS 2020 and IEEE Trans. on Instrumentation & Measurement 2022*)
-
-- **ROS simulator for underwater robotics** (Jul. 2019 - Apr. 2020)
-
-  A simulator for underwater vehicles mounted with different sensors, such as sonar, camera and IMU.
-
----
-
-### <font color="#0000dd">Academic Services</font>
-
-- IEEE Student Member
-- Reviewer service:
-  - IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
-  - JAS (IEEE/CAA Journal of Automatica Sinica)
-  - CCC (China Control Conference), CCDM (China Conference on Data Mining)
-
----
-
-### <font color="#0000dd">Useful links</font>
-
-- [Google scholar](https://scholar.google.com/citations?user=0jlkaLsAAAAJ&hl=zh-CN) 
-
-- [Researchgate](https://www.researchgate.net/profile/Yang-Xu-135) 
-
----
-
-### <font color="#0000dd">Contact me</font>
-
-- xuyang94@zju.edu.cn (academic)
+To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
