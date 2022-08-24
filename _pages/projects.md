@@ -1,6 +1,8 @@
 ---
+layout: archive
 title: "Projects"
-collection: portfolio
+permalink: /projects/
+author_profile: true
 ---
 
 ### <font color="#0000dd">Projects</font>
