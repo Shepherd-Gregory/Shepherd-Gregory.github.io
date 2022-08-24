@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yang Xu's Homepage"
+title: "Yang Xu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ redirect_from:
 
 ### <font color="#0000dd">Brief bio</font>
 
-I am currently a Ph.D. candidate at Zhejiang University, under the supervision of Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). My research interests include SLAM, control and planning in robotics.
+I am currently a Ph.D. candidate at **Zhejiang University**, under the supervision of Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). My research interests include SLAM, control and planning in robotics.
 
 ### <font color="#0000dd">News</font>
 
@@ -40,6 +40,14 @@ I am currently a Ph.D. candidate at Zhejiang University, under the supervision o
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**, *IROS 2022*, accepted. [[Preprint on arxiv](https://arxiv.org/abs/2202.09631)]
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Keyframe-based imaging sonar localization and navigation using elastic windowed optimization**, *IEEE/MTS OCEANS*, Singapore – U.S. Gulf Coast, 2020: 1-7. [DOI: 10.1109/IEEECONF38699.2020.9389045](https://ieeexplore.ieee.org/document/9389045).
 - **Yang Xu**, Jun Wang, Jinhua Wang et al. **Nonlinear Formation Control of Small Fixed-Wing UAVs with Velocity and Heading Rate Constraints**, *2018 IEEE International Conference on Mechatronics and Automation (ICMA)*. 2018:1275-1280.
+
+### <font color="#0000dd">Academic Services</font>
+
+- IEEE Student Member
+- Reviewer service:
+  - IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
+  - JAS (IEEE/CAA Journal of Automatica Sinica)
+  - CCC (China Control Conference), CCDM (China Conference on Data Mining)
 
 ### <font color="#0000dd">Contact me</font>
 
