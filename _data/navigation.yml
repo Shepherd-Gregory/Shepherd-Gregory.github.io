@@ -14,7 +14,7 @@ main:
   - title: "Projects"
     url: /projects/ 
          
-  - title: "Posts"
+  - title: "Blog Posts"
     url: /posts/
     
   - title: "CV"
