@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
-
 ### <font color="#0000dd">Brief bio</font>
 
-I am currently a Ph.D. candidate at **Zhejiang University**, under the supervision of Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). My research interests include SLAM, control and planning in robotics.
+I am currently a Ph.D. candidate at **Zhejiang University**, under the supervision of A/Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). Now I have also been a visiting scholar at **University of Techonology Sydney Robotics Institute (UTS RI)** under the supervision of Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao]([Liang Zhao Profile | University of Technology Sydney (uts.edu.au)](https://profiles.uts.edu.au/Liang.Zhao)) since September 2022. My research interests include SLAM, control and planning in robotics.
 
 ### <font color="#0000dd">News</font>
 
@@ -51,4 +49,4 @@ I am currently a Ph.D. candidate at **Zhejiang University**, under the supervisi
 
 ### <font color="#0000dd">Contact me</font>
 
-- xuyang94@zju.edu.cn (academic)
+- xuyang94@zju.edu.cn or yang.xu-1@uts.edu.au (academic)
