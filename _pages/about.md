@@ -10,7 +10,7 @@ redirect_from:
 
 ### <font color="#0000dd">Brief bio</font>
 
-I am currently a Ph.D. candidate at **Zhejiang University**, under the supervision of A/Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). Now I am also a visiting scholar at the **Robotics Institute, University of Techonology Sydney (UTS RI)** under the supervision of Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). My research interests include SLAM, control and planning in robotics.
+I am currently a PhD candidate at **Zhejiang University**, under the supervision of A/Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). Now I am also a visiting scholar at the **Robotics Institute, University of Technology Sydney (UTS RI)** under the supervision of Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). My research interests include SLAM, control and planning in robotics.
 
 ### <font color="#0000dd">News</font>
 
@@ -29,7 +29,7 @@ I am currently a Ph.D. candidate at **Zhejiang University**, under the supervisi
 
 ##### <font color="#dd0000">Journal papers</font>
 
-- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **CRMI: Confidence-rich Mutual Information for Information-theoretic Mapping**, *IEEE Robotics and Automation Letters (**RA-L**)*, 6(4): 6434 - 6441, 2021. (presented at **IROS 2021**) [DOI: 10.1109/LRA.2021.3093023](https://ieeexplore.ieee.org/document/9466474).
+- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **CRMI: Confidence-rich Mutual Information for Information-theoretic Mapping**, *IEEE Robotics and Automation Letters (**RA-L**)*, 6(4): 6434 - 6441, 2021. (Also accepted & presented at **IROS 2021**) [DOI: 10.1109/LRA.2021.3093023](https://ieeexplore.ieee.org/document/9466474).
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Robust inertial-aided underwater localization based on imaging sonar keyframes**, *IEEE Transactions on Instrumentation and Measurement (**TIM**)*, 71(7501812): 1 - 12, 2022. [DOI: 10.1109/TIM.2022.3156980](https://ieeexplore.ieee.org/document/9729232).
 - Ruofei Bai, Ronghao Zheng\*, **Yang Xu**, Meiqin Liu et al. **Hierarchical Multi-robot Strategies Synthesis and Optimization under Individual and Collaborative Temporal Logic Specifications**, *Robotics and Autonomous Systems*, 153(104085), 2022. [DOI:10.1016/j.robot.2022.104085](https://doi.org/10.1016/j.robot.2022.104085). 
 - **Yang Xu**, Ronghao Zheng*, Meiqin Liu et al.  **CLAM: Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**, submitted to *IEEE/ASME Transactions on Mechatronics* (**T-Mech**), 2022. 
