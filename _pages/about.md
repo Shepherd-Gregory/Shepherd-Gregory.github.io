@@ -10,11 +10,12 @@ redirect_from:
 
 ### <font color="#0000dd">Brief bio</font>
 
-I am currently a Ph.D. candidate at **Zhejiang University**, under the supervision of A/Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). Now I have also been a visiting scholar at **University of Techonology Sydney Robotics Institute (UTS RI)** under the supervision of Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao) since September 2022. My research interests include SLAM, control and planning in robotics.
+I am currently a Ph.D. candidate at **Zhejiang University**, under the supervision of A/Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). Now I am also a visiting scholar at the **Robotics Institute, University of Techonology Sydney (UTS RI)** under the supervision of Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). My research interests include SLAM, control and planning in robotics.
 
 ### <font color="#0000dd">News</font>
 
-- <font color="#dd0000">2022.07.12</font> I get the CSC scholarship and will join Prof. [Shoudong Huang's](https://www.uts.edu.au/staff/shoudong.huang) Lab at the University of Technology Sydney (UTS) as a visiting student in September 2022 (expected).
+- 2022.10.24 I gave an oral presentation online at **IROS 2022**.
+- <font color="#dd0000">2022.09.28</font> I get the CSC scholarship and have joined Prof. [Shoudong Huang's](https://www.uts.edu.au/staff/shoudong.huang) Lab at the University of Technology Sydney (UTS) as a visiting student in September 2022.
 - <font color="#dd0000">2022.06.30</font> One paper got accepted by **IROS 2022**.
 - <font color="#dd0000">2022.03.14</font> One co-authored paper was accepted by **Robotics and Autonomous Systems (RAS)**, congrats to **Ruofei** !
 - <font color="#dd0000">2022.02.24</font> One paper got accepted by **IEEE Transactions on Instrumentation and Measurement (TIM)**.
@@ -44,6 +45,7 @@ I am currently a Ph.D. candidate at **Zhejiang University**, under the supervisi
 - IEEE Student Member
 - Reviewer service:
   - IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
+  - ICRA (IEEE International Conference on Robotics and Automation)
   - JAS (IEEE/CAA Journal of Automatica Sinica)
   - CCC (China Control Conference), CCDM (China Conference on Data Mining)
 
