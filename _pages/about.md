@@ -14,16 +14,13 @@ I am currently a PhD candidate at **Zhejiang University**, under the supervision
 
 ### <font color="#0000dd">News</font>
 
-- 2022.10.24 I gave an oral presentation online at **IROS 2022**.
+- 2022.10.24 I gave an oral presentation online at **IROS 2022**. [Youtube](https://youtu.be/t7awYSnC2dw)
 - 2022.09.28 I get the CSC scholarship and have joined Prof. [Shoudong Huang's](https://www.uts.edu.au/staff/shoudong.huang) Lab at the University of Technology Sydney (UTS) as a visiting student in September 2022.
-- 2022.06.30 One paper got accepted by **IROS 2022**.
 - 2022.03.14 One co-authored paper was accepted by **Robotics and Autonomous Systems (RAS)**, congrats to **Ruofei** !
 - 2022.02.24 One paper got accepted by **IEEE Transactions on Instrumentation and Measurement (TIM)**.
 - 2021.09.30 I gave an oral presentation on **IROS 2021**. Video here: [Youtube](https://youtu.be/pUcGST2W_m8), [Bilibili](https://www.bilibili.com/video/BV1vQ4y1e77y?share_source=copy_web)
-- 2021.07.01 One paper got accepted by **IROS 2021**.
 - 2021.06.14 One paper got accepted by **IEEE Robotics and Automation Letters (RA-L)** .
 - 2020.10.05 I gave an oral presentation on **IEEE/MTS OCEANS 2020**.
-- 2020.07.20 One paper got accepted by **IEEE/MTS OCEANS 2020** .
 
 ### <font color="#0000dd">Publications</font>
 
