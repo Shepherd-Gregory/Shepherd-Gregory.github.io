@@ -26,7 +26,7 @@ I am currently a PhD candidate at **Zhejiang University**, under the supervision
 
 ##### Journal papers
 
-- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **CRMI: Confidence-rich Mutual Information for Information-theoretic Mapping**, *IEEE Robotics and Automation Letters (**RA-L**)*, 6(4): 6434 - 6441, 2021. (Also accepted & presented at **IROS 2021**) [[IEEE](https://ieeexplore.ieee.org/document/9466474)].
+- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **CRMI: Confidence-rich Mutual Information for Information-theoretic Mapping**, *IEEE Robotics and Automation Letters (**RA-L**)*, 6(4): 6434 - 6441, 2021. (Also accepted & presented at **IROS 2021**) [[IEEE](https://ieeexplore.ieee.org/document/9466474)],[[code](https://github.com/Shepherd-Gregory/CRMI)].
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Robust inertial-aided underwater localization based on imaging sonar keyframes**, *IEEE Transactions on Instrumentation and Measurement (**TIM**)*, 71(7501812): 1 - 12, 2022. [[IEEE](https://ieeexplore.ieee.org/document/9729232)],[[arxiv](https://arxiv.org/abs/2106.16032)].
 - Ruofei Bai, Ronghao Zheng\*, **Yang Xu**, Meiqin Liu et al. **Hierarchical Multi-robot Strategies Synthesis and Optimization under Individual and Collaborative Temporal Logic Specifications**, *Robotics and Autonomous Systems*, 153(104085), 2022. [[Elsevier](https://doi.org/10.1016/j.robot.2022.104085)]. 
 - **Yang Xu**, Ronghao Zheng*, Meiqin Liu et al.  **CLAM: Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**, submitted to *IEEE/ASME Transactions on Mechatronics (**T-Mech**)*, 2022. 
@@ -35,7 +35,7 @@ I am currently a PhD candidate at **Zhejiang University**, under the supervision
 
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**, *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022: 4471-4477. [[IEEE](https://ieeexplore.ieee.org/document/9981251)],[[arxiv](https://arxiv.org/abs/2202.09631)]
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Keyframe-based imaging sonar localization and navigation using elastic windowed optimization**, *IEEE/MTS OCEANS*, Singapore – U.S. Gulf Coast, 2020: 1-7. [[IEEE](https://ieeexplore.ieee.org/document/9389045)].
-- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Bayesian Generalized Kernel Inference-based for Exploration of Autonomous Robots**, *ICRA 2023*, under review.
+- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Bayesian Generalized Kernel Inference-based for Exploration of Autonomous Robots**, *ICRA 2023*, under review.[[arxiv](https://arxiv.org/abs/2301.00523)],[[code](https://github.com/Shepherd-Gregory/BKI-exploration)]
 - **Yang Xu**, Jun Wang, Jinhua Wang et al. **Nonlinear Formation Control of Small Fixed-Wing UAVs with Velocity and Heading Rate Constraints**, *2018 IEEE International Conference on Mechatronics and Automation (ICMA)*. 2018:1275-1280.
 
 ### <font color="#0000dd">Academic Services</font>
