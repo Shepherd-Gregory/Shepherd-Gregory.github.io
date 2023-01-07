@@ -10,17 +10,17 @@ redirect_from:
 
 ### <font color="#0000dd">Brief bio</font>
 
-I am currently a PhD candidate at **Zhejiang University**, under the supervision of A/Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). Now I am also a visiting scholar at the **Robotics Institute, University of Technology Sydney (UTS)** under the supervision of Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). My research interests include SLAM, control and planning in robotics.
+I am currently a PhD candidate at **Zhejiang University**, under the supervision of A/Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). Now I am also a visiting scholar at the **Robotics Institute (RI), University of Technology Sydney (UTS)** under the supervision of Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). My research interests include SLAM, control and planning in robotics.
 
 ### <font color="#0000dd">News</font>
 
-- 2022.10.24 I gave an oral presentation online at **IROS 2022**. [Youtube](https://youtu.be/t7awYSnC2dw)
-- 2022.09.28 I get the CSC scholarship and have joined Prof. [Shoudong Huang's](https://www.uts.edu.au/staff/shoudong.huang) Lab at the University of Technology Sydney (UTS) as a visiting student in September 2022.
-- 2022.03.14 One co-authored paper accepted by **Robotics and Autonomous Systems (RAS)**, congrats to **Ruofei** !
-- 2022.02.24 One paper got accepted by **IEEE Trans. on Instrum. & Meas. (TIM)**.
-- 2021.09.30 I gave an oral presentation on **IROS 2021**. Video here: [Youtube](https://youtu.be/pUcGST2W_m8), [Bilibili](https://www.bilibili.com/video/BV1vQ4y1e77y?share_source=copy_web)
-- 2021.06.14 One paper got accepted by **IEEE Robotics and Automation Letters (RA-L)** .
-- 2020.10.05 I gave an oral presentation on **IEEE OCEANS 2020**.
+- 22/10/24 An oral presentation online at **IROS 2022**. [Youtube](https://youtu.be/t7awYSnC2dw)
+- 22/09/28 Got the CSC scholarship and joined Prof. [Shoudong Huang's](https://www.uts.edu.au/staff/shoudong.huang) Lab at the Robotics Institute (RI), University of Technology Sydney (UTS) as a visiting student in Sep. 2022.
+- 22/03/14 One co-authored paper accepted by **Robot. Auton. Syst. (RAS)**, congrats to **Ruofei** !
+- 22/02/24 One paper accepted by **IEEE Trans. on Instrum. & Meas. (TIM)**.
+- 21/09/30 An oral presentation at **IROS 2021**. Video here: [Youtube](https://youtu.be/pUcGST2W_m8), [Bilibili](https://www.bilibili.com/video/BV1vQ4y1e77y?share_source=copy_web)
+- 21/06/14 One paper accepted by **IEEE Robot. Autom. Let. (RA-L)** .
+- 20/10/05 An oral presentation at **IEEE OCEANS 2020**.
 
 ### <font color="#0000dd">Publications</font>
 
@@ -35,7 +35,7 @@ I am currently a PhD candidate at **Zhejiang University**, under the supervision
 
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**, *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022: 4471-4477. [[IEEE](https://ieeexplore.ieee.org/document/9981251)],[[arxiv](https://arxiv.org/abs/2202.09631)]
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Keyframe-based imaging sonar localization and navigation using elastic windowed optimization**, *IEEE/MTS OCEANS*, Singapore – U.S. Gulf Coast, 2020: 1-7. [[IEEE](https://ieeexplore.ieee.org/document/9389045)].
-- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Bayesian Generalized Kernel Inference-based for Exploration of Autonomous Robots**, *ICRA 2023*, under review.[[arxiv](https://arxiv.org/abs/2301.00523)],[[code](https://github.com/Shepherd-Gregory/BKI-exploration)]
+- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Bayesian Generalized Kernel Inference for Exploration of Autonomous Robots**, *ICRA 2023*, under review.[[arxiv](https://arxiv.org/abs/2301.00523)],[[code](https://github.com/Shepherd-Gregory/BKI-exploration)]
 - **Yang Xu**, Jun Wang, Jinhua Wang et al. **Nonlinear Formation Control of Small Fixed-Wing UAVs with Velocity and Heading Rate Constraints**, *2018 IEEE International Conference on Mechatronics and Automation (ICMA)*. 2018:1275-1280.
 
 ### <font color="#0000dd">Academic Services</font>
