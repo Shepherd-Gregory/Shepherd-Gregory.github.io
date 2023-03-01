@@ -35,7 +35,7 @@ I am currently a PhD candidate at **Zhejiang University**, under the supervision
 
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**, *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022: 4471-4477. [[IEEE](https://ieeexplore.ieee.org/document/9981251)],[[arxiv](https://arxiv.org/abs/2202.09631)]
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Keyframe-based imaging sonar localization and navigation using elastic windowed optimization**, *IEEE/MTS OCEANS*, Singapore – U.S. Gulf Coast, 2020: 1-7. [[IEEE](https://ieeexplore.ieee.org/document/9389045)].
-- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **Bayesian Generalized Kernel Inference for Exploration of Autonomous Robots**, *ICRA 2023*, under review.[[arxiv](https://arxiv.org/abs/2301.00523)],[[code](https://github.com/Shepherd-Gregory/BKI-exploration)]
+- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu, Shoudong Huang. **BKIO: Bayesian Kernel Inference and Optimization for Accelerating Information Evaluation in Robot Exploration**, *IROS 2023*, under review.[[code](https://github.com/Shepherd-Gregory/BKI-exploration)]
 - **Yang Xu**, Jun Wang, Jinhua Wang et al. **Nonlinear Formation Control of Small Fixed-Wing UAVs with Velocity and Heading Rate Constraints**, *2018 IEEE International Conference on Mechatronics and Automation (ICMA)*. 2018:1275-1280.
 
 ### <font color="#0000dd">Academic Services</font>
