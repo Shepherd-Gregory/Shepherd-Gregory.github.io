@@ -3,7 +3,7 @@ permalink: /
 title: "Yang Xu"
 excerpt: "About me"
 author_profile: true
-layout: splash
+layout: default
 redirect_from: 
   - /about/
   - /about.html
@@ -41,7 +41,8 @@ I am currently a PhD candidate at **Zhejiang University**, supervised by A/Prof.
 
 ### <font color="#0000dd">Academic Services</font>
 
-- IEEE Student Member
+- Student Member, IEEE 
+- Member, IEEE Robotics and Automation Society (RAS)
 - Reviewer service:
   - IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
   - ICRA (IEEE International Conference on Robotics and Automation)
