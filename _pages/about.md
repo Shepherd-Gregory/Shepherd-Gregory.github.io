@@ -3,6 +3,7 @@ permalink: /
 title: "Yang Xu"
 excerpt: "About me"
 author_profile: true
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
@@ -35,7 +36,7 @@ I am currently a PhD candidate at **Zhejiang University**, supervised by A/Prof.
 
 - **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu. **Confidence-rich localization and mapping based on particle filter for robotic exploration**, *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022: 4471-4477. [[IEEE](https://ieeexplore.ieee.org/document/9981251)],[[arxiv](https://arxiv.org/abs/2202.09631)]
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu, Senlin Zhang. **Keyframe-based imaging sonar localization and navigation using elastic windowed optimization**, *IEEE/MTS OCEANS*, Singapore – U.S. Gulf Coast, 2020: 1-7. [[IEEE](https://ieeexplore.ieee.org/document/9389045)].
-- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu, Shoudong Huang. **BKIO: Bayesian kernel inference and optimization for accelerating information evaluation in robot exploration**, ***IROS 2023***, under review.[[code](https://github.com/Shepherd-Gregory/BKI-exploration)]
+- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu, Shoudong Huang. **BKIO: Bayesian kernel inference and optimization for accelerating information evaluation in robot exploration**, ***IROS 2023***, under review.[[code](https://github.com/Shepherd-Gregory/BKI-exploration)] [[video](https://youtu.be/2gIam6SIQpY)]
 - **Yang Xu**, Jun Wang, Jinhua Wang et al. **Nonlinear formation control of small fixed-wing UAVs with velocity and heading rate constraints**, *2018 IEEE International Conference on Mechatronics and Automation (**ICMA**)*. 2018:1275-1280.
 
 ### <font color="#0000dd">Academic Services</font>
