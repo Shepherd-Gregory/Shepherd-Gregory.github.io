@@ -7,10 +7,9 @@
 #    url: /markdown/
 # - title: "Portfolio"
 #    url: /portfolio/
+#  - title: "Publications"
+#    url: /publications/
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Projects"
     url: /projects/ 
          
