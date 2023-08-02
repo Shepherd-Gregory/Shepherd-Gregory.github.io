@@ -31,14 +31,15 @@ I am currently a PhD candidate at **Zhejiang University**, supervised by A/Prof.
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu, Senlin Zhang. **CRMI: Confidence-rich mutual information for information-theoretic mapping**, *IEEE Robotics and Automation Letters (**RA-L**)*, 6(4): 6434 - 6441, 2021. (Also accepted & presented at **IROS 2021**) [[IEEE](https://ieeexplore.ieee.org/document/9466474)],[[code](https://github.com/Shepherd-Gregory/CRMI)].
 - **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu. **Robust inertial-aided underwater localization based on imaging sonar keyframes**, *IEEE Transactions on Instrumentation and Measurement* (**TIM**), 71(7501812): 1 - 12, 2022. [[IEEE](https://ieeexplore.ieee.org/document/9729232)],[[arxiv](https://arxiv.org/abs/2106.16032)].
 - Ruofei Bai, Ronghao Zheng\*, **Yang Xu**, Meiqin Liu et al. **Hierarchical multi-robot strategies synthesis and optimization under individual and collaborative temporal logic specifications**, *Robotics and Autonomous Systems*, 153(104085), 2022. [[Elsevier](https://doi.org/10.1016/j.robot.2022.104085)]. 
-- **Yang Xu**, Ronghao Zheng*, Senlin Zhang, Meiqin Liu, Junzhi Yu.  **Uncertainty-aware autonomous robot exploration using confidence-rich localization and mapping**, IEEE Transactions on Automation Science and Engineering* (**T-ASE**), under review, 2023. 
-- **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu, Shoudong Huang. CARE: Confidence-rich autonomous robot exploration using Bayesian kernel inference and optimization, *IEEE Robotics and Automation Letters (**RA-L**)*, under review, 2023. 
+- **Yang Xu**, Ronghao Zheng*, Senlin Zhang, Meiqin Liu, Junzhi Yu.  **Uncertainty-aware autonomous robot exploration using confidence-rich localization and mapping**, IEEE Transactions on Automation Science and Engineering* (**T-ASE**), revise & resubmit, 2023. 
+- **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu, Shoudong Huang. **CARE: Confidence-rich autonomous robot exploration using Bayesian kernel inference and optimization**, *IEEE Robotics and Automation Letters (**RA-L**)*, revise & resubmit, 2023. [[code](https://github.com/Shepherd-Gregory/BKIO-Exploration)]
+- **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu. **BKIO: Bayesian Kernel Inference and Optimization for**
+  **Information-driven Path Planning of Autonomous Vehicles**, *Mechanical System and Signal Processing (**MSSP**)* , under review.[[code](https://github.com/Shepherd-Gregory/BKIO-IPP)]
 
 ##### Conference papers
 
-- **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu. **Confidence-rich localization and mapping based on particle filter for robotic exploration**, *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022: 4471-4477. [[IEEE](https://ieeexplore.ieee.org/document/9981251)],[[arxiv](https://arxiv.org/abs/2202.09631)]
+- **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu. **Confidence-rich localization and mapping based on particle filter for robotic exploration**, *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)*, 2022: 4471-4477. [[IEEE](https://ieeexplore.ieee.org/document/9981251)],[[arxiv](https://arxiv.org/abs/2202.09631)]
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu, Senlin Zhang. **Keyframe-based imaging sonar localization and navigation using elastic windowed optimization**, *IEEE/MTS OCEANS*, Singapore – U.S. Gulf Coast, 2020: 1-7. [[IEEE](https://ieeexplore.ieee.org/document/9389045)].
-- **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu, Shoudong Huang. **BKIO: Bayesian kernel inference and optimization for accelerating information evaluation in robot exploration**, ***IROS 2023***, under review.[[code](https://github.com/Shepherd-Gregory/BKI-exploration)] [[video](https://youtu.be/2gIam6SIQpY)]
 - **Yang Xu**, Jun Wang, Jinhua Wang et al. **Nonlinear formation control of small fixed-wing UAVs with velocity and heading rate constraints**, *2018 IEEE International Conference on Mechatronics and Automation (**ICMA**)*. 2018:1275-1280.
 
 ### <font color="#0000dd">Academic Services</font>
@@ -49,8 +50,8 @@ I am currently a PhD candidate at **Zhejiang University**, supervised by A/Prof.
   - IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
   - ICRA (IEEE International Conference on Robotics and Automation)
   - JAS (IEEE/CAA Journal of Automatica Sinica)
-  - CCC (China Control Conference), CCDM (China Conference on Data Mining)
+  - CCC (China Control Conference), CCDM (China Conference on Data Mining), ICONIP(International Conference on Neural Information Processing)
 
 ### <font color="#0000dd">Contact me</font>
 
-- xuyang94@zju.edu.cn (academic)
+- garryhsu0901@gmail.com(Personal)/xuyang94@zju.edu.cn (Academic)
