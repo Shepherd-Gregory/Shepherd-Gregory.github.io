@@ -11,10 +11,11 @@ redirect_from:
 
 ### <font color="#0000dd">Brief bio</font>
 
-I am currently a PhD candidate at **Zhejiang University**, supervised by A/Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu).  I was also a visiting scholar at the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). My research interests include SLAM, planning and learning in robotics.
+I am currently a PhD graduate at **Zhejiang University**, supervised by A/Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu).  I was also a visiting scholar at the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). My research interests include SLAM, planning and learning in robotics.
 
 ### <font color="#0000dd">Update</font>
 
+- 23/09/12 I have passed the PhD defense at ZJU~
 - 23/09/01 One paper accepted by **IEEE Robot. Autom. Let. (RA-L)** ！
 - 23/05/18 I gave an on-site talk at [MiLab](https://milab.westlake.edu.cn/) of Westlake University. (Invited by Prof. [Donglin Wang](https://milab.westlake.edu.cn/index.html))
 - 22/10/24 An oral presentation online at **IROS 2022**. [Youtube](https://youtu.be/t7awYSnC2dw)
@@ -29,12 +30,12 @@ I am currently a PhD candidate at **Zhejiang University**, supervised by A/Prof.
 
 ##### Journal papers
 
-- **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu, Shoudong Huang. **CARE: Confidence-rich autonomous robot exploration using Bayesian kernel inference and optimization**, *IEEE Robotics and Automation Letters (**RA-L**)*, accepted, 2023. [[code](https://github.com/Shepherd-Gregory/BKIO-Exploration)]
+- **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu, Shoudong Huang. **CARE: Confidence-rich autonomous robot exploration using Bayesian kernel inference and optimization**, *IEEE Robotics and Automation Letters (**RA-L**)*, 8(10): 6755-6762, 2023. [[code](https://github.com/Shepherd-Gregory/BKIO-Exploration)]
 - **Yang Xu**, Ronghao Zheng\*, Meiqin Liu, Senlin Zhang. **CRMI: Confidence-rich mutual information for information-theoretic mapping**, *IEEE Robotics and Automation Letters (**RA-L**)*, 6(4): 6434 - 6441, 2021. (Also accepted & presented at **IROS 2021**) [[IEEE](https://ieeexplore.ieee.org/document/9466474)],[[code](https://github.com/Shepherd-Gregory/CRMI)].
 - **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu. **Robust inertial-aided underwater localization based on imaging sonar keyframes**, *IEEE Transactions on Instrumentation and Measurement* (**TIM**), 71(7501812): 1 - 12, 2022. [[IEEE](https://ieeexplore.ieee.org/document/9729232)],[[arxiv](https://arxiv.org/abs/2106.16032)].
 - Ruofei Bai, Ronghao Zheng\*, **Yang Xu**, Meiqin Liu et al. **Hierarchical multi-robot strategies synthesis and optimization under individual and collaborative temporal logic specifications**, *Robotics and Autonomous Systems*, 153(104085), 2022. [[Elsevier](https://doi.org/10.1016/j.robot.2022.104085)]. 
-- **Yang Xu**, Ronghao Zheng*, Senlin Zhang, Meiqin Liu, Junzhi Yu.  **Uncertainty-aware autonomous robot exploration using confidence-rich localization and mapping**, IEEE Transactions on Automation Science and Engineering* (**T-ASE**), revise & resubmit, 2023. 
-- **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu. **BKIO: Bayesian Kernel Inference and Optimization for Information-driven Path Planning of Autonomous Vehicles**, *Mechanical System and Signal Processing (**MSSP**)* , under review.[[code](https://github.com/Shepherd-Gregory/BKIO-IPP)]
+- **Yang Xu**, Ronghao Zheng*, Senlin Zhang, Meiqin Liu, Junzhi Yu. **Uncertainty-aware autonomous robot exploration using confidence-rich localization and mapping**, IEEE Transactions on Automation Science and Engineering (T-ASE), revise & resubmit, 2023. 
+- **Yang Xu**, Ronghao Zheng\*, Senlin Zhang, Meiqin Liu. **Bayesian kernel inference and optimization for information-driven path planning of autonomous vehicles**, *Mechanical System and Signal Processing (**MSSP**)* , under review.[[code](https://github.com/Shepherd-Gregory/BKIO-IPP)]
 
 ##### Conference papers
 
@@ -49,10 +50,11 @@ I am currently a PhD candidate at **Zhejiang University**, supervised by A/Prof.
 - Reviewer service:
   - IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
   - ICRA (IEEE International Conference on Robotics and Automation)
+  - IEEE Trans. on Instrumentation and Measurement
   - JAS (IEEE/CAA Journal of Automatica Sinica)
   - Information Fusion
   - CCC (China Control Conference), CCDM (China Conference on Data Mining), ICONIP(International Conference on Neural Information Processing)
 
 ### <font color="#0000dd">Contact me</font>
 
-- garryhsu0901@gmail.com(Personal)/xuyang94@zju.edu.cn (Academic)
+- garryhsu0901@gmail.com(Permanent)/xuyang94@zju.edu.cn (Academic)
