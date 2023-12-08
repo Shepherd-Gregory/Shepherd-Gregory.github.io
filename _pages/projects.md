@@ -5,13 +5,13 @@ permalink: /projects/
 author_profile: true
 ---
 
-- **Learning-based informative path planning** (Dec. 2021 - Now)
+- **Learning-based informative path planning** (Jan. 2022 - Oct. 2023)
 
-  Utilize information theory and machine learning techniques to guide the robots to explore unknown and unstructured environments autonomously under the constraints of the real world. Our work mainly focuses on introducing more advanced learning techniques to handle the challenge of exploration and exploitation in robotic active sensing, as well as computational efficiency. (*Prepared for IEEE ICRA 2023*)
+  Utilize information theory and machine learning techniques to guide the robots to explore unknown and unstructured environments autonomously under the constraints of the real world. Our work mainly focuses on introducing more advanced learning techniques to handle the challenge of exploration and exploitation in robotic active sensing, as well as computational efficiency. (*Accepted by IEEE RA-L 2023, submitted to MSSP & IEEE TCAS-II*)
 
-- **Information-based robot exploration with pose uncertainty** (Jul. 2021 - Nov. 2021)
+- **Information-based robot exploration with pose uncertainty** (Jul. 2021 - Dec. 2021)
 
-  Previous works concerned more about active mapping/exploration with known poses or utilize inaccurate information metrics, resulting in imbalanced exploration. We propose a Rao-Blackwellized particle filter-based confidence-rich localization and mapping (RBPF-CRLM) scheme with a new closed-form weighting method. We further compute the uncertain CRMI (UCRMI) with the weighted particles by a more accurate approximation. The localization accuracy and exploration performance of the proposed methods are shown in the unstructured environments. (*Accepted by IEEE IROS 2022 and submitted to T-Mech*)
+  Previous works concerned more about active mapping/exploration with known poses or utilize inaccurate information metrics, resulting in imbalanced exploration. We propose a Rao-Blackwellized particle filter-based confidence-rich localization and mapping (RBPF-CRLM) scheme with a new closed-form weighting method. We further compute the uncertain CRMI (UCRMI) with the weighted particles by a more accurate approximation. The localization accuracy and exploration performance of the proposed methods are shown in the unstructured environments. (*Accepted by IEEE IROS 2022 and conditionally accepted by IEEE T-ASE*)
 
 - **Information-theoretic mapping for range sensing robots** (Sept. 2020 - June 2021)
 

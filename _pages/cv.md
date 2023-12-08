@@ -11,12 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Robotics, Zhejiang University, 2023 (expected)
-* M.S. in System & Control, Fuzhou University, 2019
-* B.S. in Precision Instruments, Xiangtan University, 2014
+* Ph.D. in Robotics, Zhejiang University, 2023 
 
 Work experience
 ======
+* Fall 2023 - Now: Postdoctoral research fellow, Zhejiang University
 * Fall 2022: Visiting scholar
   - Robotics Institute, University of Technology Sydney (UTS)
 * Summer 2017: Unmanned System R&D Intern

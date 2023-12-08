@@ -45,13 +45,14 @@ I am currently a postdoc research fellow at **Zhejiang University**. I received 
 
 ### <font color="#0000dd">Academic Services</font>
 
-- Student Member, IEEE 
+- Member, IEEE 
 - Member, IEEE Robotics and Automation Society (RAS)
 - Reviewer service:
   - IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
   - ICRA (IEEE International Conference on Robotics and Automation)
   - IEEE Trans. on Instrumentation and Measurement
   - JAS (IEEE/CAA Journal of Automatica Sinica)
+  - MST (Measurement Science and Technology)
   - Information Fusion
   - CCC (China Control Conference), CCDM (China Conference on Data Mining), ICONIP(International Conference on Neural Information Processing)
 
