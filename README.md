@@ -57,7 +57,7 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://www.compphys.de/" target="_blank">★</a>
 <a href="https://julianstreyczek.github.io" target="_blank">★</a>
 <a href="https://sdaza.com" target="_blank">★</a>
-   
+
 </td>
 </tr>
 <tr>
@@ -136,6 +136,10 @@ Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0
 2. Make any other changes to your webpage, commit, and push. This will automatically trigger the **Deploy** action.
 3. Wait for a few minutes and let the action complete. You can see the progress in the **Actions** tab. If completed successfully, in addition to the `master` branch, your repository should now have a newly built `gh-pages` branch.
 4. Finally, in the **Settings** of your repository, in the Pages section, set the branch to `gh-pages` (**NOT** to `master`). For more details, see [Configuring a publishing source for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
+
+**Trouble shooting**：
+
+[Trying to deploy but failed. · Issue #208 · alshedivat/al-folio (github.com)](https://github.com/alshedivat/al-folio/issues/208), reference: [Mustapha-AJEGHRIR.github.io](https://github.com/Mustapha-AJEGHRIR/Mustapha-AJEGHRIR.github.io)
 
 
 <details><summary>(click to expand) <strong>Manual deployment to GitHub Pages:</strong></summary>
@@ -240,8 +244,8 @@ If you have a different question, please ask using [Discussions](https://github.
 4. **Q:** Atom feed doesn't work. Why?
    <br>
    **A:** Make sure to correctly specify the `url` and `baseurl` paths in `_config.yml`.
-  RSS Feed plugin works with these correctly set up fields: `title`, `url`, `description` and `author`.
-  Make sure to fill them in an appropriate way and try again.
+    RSS Feed plugin works with these correctly set up fields: `title`, `url`, `description` and `author`.
+    Make sure to fill them in an appropriate way and try again.
 
 ## Features
 
