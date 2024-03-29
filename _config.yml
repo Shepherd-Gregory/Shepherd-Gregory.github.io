@@ -2,20 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Xingxing Zuo # the website title (if blank, full name will be used instead)
-first_name: Xingxing
+title: Yang Xu # the website title (if blank, full name will be used instead)
+first_name: Yang
 # middle_name:
-last_name: Zuo
-email: zuox@caltech.edu
+last_name: Xu
+email: xuyang94@zju.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Xingxing Zuo's personal webpage.
+  Yang Xu's personal webpage.
 footer_text: >
   Powered by <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-# icon: 🔥 # the emoji used as the favicon
-# icon: 🌟
-icon: ✨
-url: https://XingxingZuo.github.io # https://alshedivat.github.io # the base hostname & protocol for your site
+# icon:  # the emoji used as the favicon
+# icon: 
+icon: "\U0001F31E" # U2600, see http://unicode.org/emoji/charts/emoji-list.html
+url: https://shepherd-gregory.github.io # https://alshedivat.github.io # the base hostname & protocol for your site
 baserul:  # /pagetest.github.io  /al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -43,17 +43,17 @@ max_width: 800px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
-og_image: https://twitter.com/12Zuo # The site-wide (default for all links) Open Graph preview image
+# og_image: https://twitter.com/12Zuo # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: ZuoJiaxing # your GitHub user name
+github_username: Shepherd-Gregory # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: 12Zuo # your Twitter handle
-linkedin_username: xingxingzuo # your LinkedIn user name
-scholar_userid: CePv8agAAAAJ # your Google Scholar ID
+# twitter_username: 12Zuo # your Twitter handle
+# linkedin_username: Yang Xu # your LinkedIn user name
+scholar_userid: 0jlkaLsAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -71,8 +71,8 @@ rss_icon: false
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: G-L6PYDPEBZZ # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+# google_analytics: G-XXXXXXXX # out your google-analytics code
+# panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -87,7 +87,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: xingxingzuo # put your disqus shortname
+disqus_shortname: Yang # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
@@ -161,14 +161,14 @@ github: [metadata]
 
 scholar:
 
-  last_name: Zuo
-  first_name: [Xingxing]
+  last_name: Xu
+  first_name: [Yang]
 
   style: apa
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: paper.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.

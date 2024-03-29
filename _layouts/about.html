@@ -34,13 +34,13 @@ layout: default
     {% endif %}
     
     <div class="clearfix">
-    <a name="publications"><h2>selected publications</h2></a>
+    <a name="publications"><h2>Selected publications</h2></a>
     <br>
-    <p style="font-size:22px;"> <i> Find out my full publication list via </i> <a href='https://scholar.google.com/citations?user=CePv8agAAAAJ'>Google Scholar</a>. <br>
+    <p style="font-size:22px;"> <i> Find out my full publication list via </i> <a href='https://scholar.google.com/citations?user=0jlkaLsAAAAJ'>Google Scholar</a>. <br>
     <sup>*</sup> co-first author with equal contribution;  <sup>#</sup> Corresponding author.</p>  
     <!-- <sup>&#x0266F;</sup>corresponding author. -->
     {% for y in page.years %}
-      {% bibliography -f papers -q @*[year={{y}}]* %}
+      {% bibliography -f paper -q @*[year={{y}}]* %}
     {% endfor %}
     </div>
   </article>
@@ -49,13 +49,8 @@ layout: default
   <br/>
   <br/>  
   <object>
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1twVP4MxlSt5qz7WFcQ2STz9_P7EHXjk87_cAwV5zq4&cl=ffffff&w=a"></script>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yxQ3Tb8hEv1Fhfl33BizwQwjKmY5JV97uM85OVIrSTc&cl=ffffff&w=a"></script>
   </object>
   <br/>
-<!--   <center>
-    <object>
-      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1twVP4MxlSt5qz7WFcQ2STz9_P7EHXjk87_cAwV5zq4"></script>
-    </object>
-  </center> -->
 
 </div>

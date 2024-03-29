@@ -1,23 +1,23 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: I has co-supervised some student projects for their Master or Semester thesis projects.
+title: Teaching
+description: I have co-supervised some students with my supervisor in the past several years.
 nav: true
 
 ---
 
 **Co-supervised students**
 
--	Peng Qi (M.Sc, ZJU), 2023.11 – Present. 
+-	xx (M.Sc, xx), 2023.11 – Present. 
 
 ---
 
 
 
-**xx Assistant** for xx (xx): 
+**xx** for xx (xx): 
 
-Mobile robots.
+TBD.
 
 
 

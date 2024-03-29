@@ -1,5 +1,7 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+
 group :jekyll_plugins do
+	gem 'wdm'
     gem 'jekyll'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
