@@ -1,17 +1,29 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "Yang Xu"
-excerpt: "About me"
-author_profile: true
-layout: archive
-redirect_from: 
-  - /about/
-  - /about.html
+description: Postdoc Research Fellow at <a href="https://www.zju.edu.cn/"> ZJU</a>.
+
+profile:
+  align: right
+  image: snowyoung.jpg
+
+news: true  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+
+years: [2023, 2022, 2021, 2020]
 ---
 
 ### <font color="#0000dd">Brief bio</font>
 
 I am currently a Postdoctoral Research Fellow at **Zhejiang University**. I received my D. Eng. degree at **Zhejiang University** (2023) under the supervision of Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu) and Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng).  I was also a visiting Ph.D. student with the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). My research interests include active SLAM, planning and learning in robotics.
+
+  {% if page.news %}
+    {% include news.html %}
+  {% endif %}
+
+</div>
 
 ### <font color="#0000dd">Selected News</font>
 

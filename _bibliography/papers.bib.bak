@@ -1,0 +1,81 @@
+% Encoding: UTF-8
+@inproceedings{xu2022confidence,
+  title={Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration},
+  author={Xu, Yang and Zheng, Ronghao and Zhang, Senlin and Liu, Meiqin},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={4471--4477},
+  year={2022},
+  organization={IEEE}
+}
+@Article{yang2021crmi,
+  author  = {Xu, Yang and Zheng, Ronghao and Liu, Meiqin and Zhang, Senlin},
+  journal = {IEEE Robotics and Automation Letters},
+  title   = {{CRMI}: Confidence-rich mutual information for information-theoretic mapping},
+  year    = {2021},
+  number  = {4},
+  pages   = {6434-6441},
+  volume  = {6},
+  doi     = {10.1109/LRA.2021.3093023},
+}
+@Article{yang2022robust,
+  author  = {Xu, Yang and Zheng, Ronghao and Zhang, Senlin and Liu, Meiqin},
+  journal = {IEEE Transactions on Instrumentation and Measurement},
+  title   = {Robust inertial-aided underwater localization based on imaging sonar keyframes},
+  year    = {2022},
+  number  = {7501812},
+  pages   = {1--12},
+  volume  = {71},
+  publisher={IEEE}
+}
+
+@Article{10422987,
+  author   = {Xu, Yang and Zheng, Ronghao and Zhang, Senlin and Liu, Meiqin and Yu, Junzhi},
+  journal  = {IEEE Transactions on Automation Science and Engineering},
+  title    = {Uncertainty-Aware Autonomous Robot Exploration Using Confidence-Rich Localization and Mapping},
+  year     = {2024},
+  pages    = {1-15},
+  doi      = {10.1109/TASE.2024.3360442},
+  keywords = {Robots;Uncertainty;Simultaneous localization and mapping;Location awareness;Autonomous robots;Measurement;Trajectory;Autonomous robot exploration;active SLAM;mutual information;range sensors;particle filter},
+}
+
+@Article{10443243,
+  author   = {Xu, Yang and Zheng, Ronghao and Zhang, Senlin and Liu, Meiqin and Yu, Junzhi},
+  journal  = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  title    = {Online Informative Path Planning of Autonomous Vehicles Using Kernel-Based Bayesian Optimization},
+  year     = {2024},
+  pages    = {1-1},
+  doi      = {10.1109/TCSII.2024.3368081},
+  keywords = {Optimization;Bayes methods;Training;Planning;Decision making;Costs;Uncertainty;Informative path planning;mutual information;Bayesian optimization;kernel inference;intelligent vehicle},
+}
+
+@InProceedings{9981251,
+  author    = {Xu, Yang and Zheng, Ronghao and Zhang, Senlin and Liu, Meiqin},
+  booktitle = {2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  title     = {Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration},
+  year      = {2022},
+  pages     = {4471-4477},
+  doi       = {10.1109/IROS47612.2022.9981251},
+  keywords  = {Location awareness;Weight measurement;Uncertainty;Simultaneous localization and mapping;Atmospheric measurements;Customer relationship management;Particle measurements},
+}
+
+@InProceedings{9389045,
+  author    = {Xu, Yang and Zheng, Ronghao and Liu, Meiqin and Zhang, Senlin},
+  booktitle = {Global Oceans 2020: Singapore – U.S. Gulf Coast},
+  title     = {Keyframe-Based Imaging Sonar Localization and Navigation using Elastic Windowed Optimization},
+  year      = {2020},
+  pages     = {1-7},
+  doi       = {10.1109/IEEECONF38699.2020.9389045},
+  keywords  = {Location awareness;Simultaneous localization and mapping;Two dimensional displays;Sonar;Imaging;Sonar navigation;Optimization;Autonomous underwater vehicle;underwater localization and navigation;imaging sonar;keyframe},
+}
+
+@InProceedings{8484555,
+  author    = {Xu, Yang and Wang, Jinhua and Wang, Jun and Ke, Yijie},
+  booktitle = {2018 IEEE International Conference on Mechatronics and Automation (ICMA)},
+  title     = {Nonlinear Formation Control of Small Fixed-Wing UAVs with Velocity and Heading Rate Constraints},
+  year      = {2018},
+  pages     = {1275-1280},
+  doi       = {10.1109/ICMA.2018.8484555},
+  keywords  = {Acceleration;Vehicle dynamics;Mathematical model;Unmanned aerial vehicles;Nonlinear dynamical systems;Kinematics;Automation;Formation control;leader-follower;unmanned aerial vehicles;velocity constraint;heading rate constraint},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
