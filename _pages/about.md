@@ -3,7 +3,7 @@ permalink: /
 title: "Yang Xu"
 excerpt: "About me"
 author_profile: true
-layout: archive
+layout: about
 redirect_from: 
   - /about/
   - /about.html
