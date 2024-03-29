@@ -50,7 +50,7 @@ serve_og_meta: true # Include Open Graph meta tags in the HTML head
 # -----------------------------------------------------------------------------
 
 github_username: Shepherd-Gregory # your GitHub user name
-gitlab_username: # your GitLab user name
+# gitlab_username: # your GitLab user name
 # twitter_username: 12Zuo # your Twitter handle
 # linkedin_username: Yang Xu # your LinkedIn user name
 scholar_userid: 0jlkaLsAAAAJ # your Google Scholar ID
