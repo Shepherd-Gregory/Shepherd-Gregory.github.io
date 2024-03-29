@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">
+     {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
+    </h1>
+     <p class="desc">{{ page.description }}</p>
+  </header>
+
+  <article>
+    {% if page.profile %}
+    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      {% if page.profile.image %}
+        <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+      {% endif %}
+      {% if page.profile.address %}
+        <div class="address">
+          {{ page.profile.address }}
+        </div>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    <div class="clearfix">
+      {{ content }}
+    </div>
+
+    {% if page.selected_papers %}
+      {% include selected_papers.html %}
+    {% endif %}
+    
+    <div class="clearfix">
+    <a name="publications"><h2>Selected publications</h2></a>
+    <br>
+    <p style="font-size:22px;"> <i> Find out my full publication list via </i> <a href='https://scholar.google.com/citations?user=0jlkaLsAAAAJ'>Google Scholar</a>. <br>
+    <sup>*</sup> co-first author with equal contribution;  <sup>#</sup> Corresponding author.</p>  
+    <!-- <sup>&#x0266F;</sup>corresponding author. -->
+    {% for y in page.years %}
+      {% bibliography -f paper -q @*[year={{y}}]* %}
+    {% endfor %}
+    </div>
+  </article>
+
+  <br/>
+  <br/>
+  <br/>  
+  <object>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yxQ3Tb8hEv1Fhfl33BizwQwjKmY5JV97uM85OVIrSTc&cl=ffffff&w=a"></script>
+  </object>
+  <br/>
+
+</div>
