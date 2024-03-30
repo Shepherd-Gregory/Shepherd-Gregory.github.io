@@ -14,10 +14,3 @@ nav: true
 ---
 
 
-
-**xx** for xx (xx): 
-
-TBD.
-
-
-

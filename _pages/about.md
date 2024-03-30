@@ -8,6 +8,7 @@ profile:
   align: right
   image: snowyoung.jpg
 
+selected_projects: true
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -74,3 +75,23 @@ My research interests include active SLAM, autonomous exploration, informative p
 - **IROS 2022 (Kyoto, Japan)** - Confidence-rich localization and mapping based on particle filter for robotic exploration. [Video](https://youtu.be/t7awYSnC2dw)
 
 - **IROS 2021 (Prague, Czech)** - CRMI: Confidence-rich mutual information for information-theoretic mapping, Video here: [Youtube](https://youtu.be/pUcGST2W_m8), [Bilibili](https://www.bilibili.com/video/BV1vQ4y1e77y?share_source=copy_web)
+
+
+
+<h2>Posts and blogs</h2>
+
+See all posts here: [`Posts`](/projects)
+
+{% if page.selected_projects -%}
+  <!-- Projects -->
+  <div>
+    {%- assign sorted_projects = site.projects | where: "selected", true | sort: "importance" -%}
+    <div class="projects">  
+      <div class="grid">
+        {%- for project in sorted_projects -%}
+        {% include projects.html %}
+        {%- endfor %}
+      </div>              
+    </div>
+  </div>
+{%- endif %}
