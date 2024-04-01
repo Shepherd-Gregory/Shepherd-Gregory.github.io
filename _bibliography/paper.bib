@@ -2,7 +2,7 @@
 
 @Article{yang2021crmi,
   author   = {Xu, Yang and Zheng<sup>#</sup>, Ronghao and Liu, Meiqin and Zhang, Senlin},
-  journal  = {IEEE Robotics and Automation Letters},
+  journal  = {IEEE Robotics and Automation Letters (presented at IROS 2021)},
   title    = {{CRMI}: Confidence-rich Mutual Information for Information-theoretic Mapping},
   year     = {2021},
   number   = {4},
@@ -10,9 +10,10 @@
   volume   = {6},
   abbr     = {ral_2021},
   code     = {https://github.com/Shepherd-Gregory/CRMI},
-  comments = {<b style="color:red;">Also presented at IROS 2021"</b>},
   doi      = {10.1109/LRA.2021.3093023},
   video    = {https://youtu.be/pUcGST2W_m8},
+  webpage  = {https://ieeexplore.ieee.org/abstract/document/9466474/},
+  abstract = {This letter focuses on information-theoretic active mapping and exploration with beam-based range sensing robots. Traditional works based on hand-engineered inverse sensor model (ISM) mapping or kernel inference methods lead to imbalanced accuracy and efficiency. This motivates us to propose a new approach to compute mutual information more accurately, based on the continuous belief distribution over the occupancy map and called confidence-rich mutual information (CRMI). Specifically, we explicitly model the measurement dependencies between grid cells within the same measurement cone at each time step and derive the CRMI for each cell on all beams by introducing a more general beam-based sensor cause model (SCM), rather than the customized ISM. The time efficiency for CRMI mapping allows for online implementation as well. Extensive simulations and experiments show the desired exploratory behavior to unexplored and obscured regions for CRMI-based robot controllers in the unstructured and cluttered scene, even in large scale environment.},
 }
 
 @Article{xu2024uncertain,
@@ -23,6 +24,8 @@
   pages   = {1-15},
   abbr    = {tase-ucrmi},
   doi     = {10.1109/TASE.2024.3360442},
+  webpage = {https://ieeexplore.ieee.org/abstract/document/10422987/},
+  abstract = {Information-based autonomous robot exploration methods, aiming to maximize the exploration rewards, e.g., mutual information (MI), get more prevalent in field robotics applications. However, most MI-based exploration methods assume known poses or use inaccurate pose uncertainty approximation, which may lead to deviation or even failure when exploring prior unknown environments. In this paper, we explicitly consider full-state (pose & map) uncertainty for balancing exploration and localizability, i.e., avoiding the robot guiding itself to complex scenes with high exploration rewards but hard to localize. We first propose a Rao-Blackwellized particle filter-based localization and mapping framework (RBPF-CLAM) for a dense environmental map with continuous occupancy distribution. Then we develop a new closed-form particle weighting method to improve the localization accuracy and robustness. We further use these weighted particles to approximate the unknown pose uncertainty and combine it with our previous confidence-rich mutual information (CRMI) metric to evaluate the expected information utility of the robot’s new control actions. This new information metric is called uncertain CRMI (UCRMI). Dataset experiments show our RBPF-CLAM improves about 44.7% average root mean square error than the state-of-the-art RBPF localization method, and real-world experimental results show that our UCRMI reduces the pose uncertainty about 32.85% more than CRMI and 25.36% time cost than UGPVR in the exploration of unknown and unstructured scenes given sparse measurements, which shows better performance than other state-of-the-art information metrics.},
 }
 
 @Article{xu2024online,
@@ -33,9 +36,11 @@
   pages   = {1-1},
   abbr    = {tcasii-2024},
   doi     = {10.1109/TCSII.2024.3368081},
+  webpage = {https://ieeexplore.ieee.org/abstract/document/10443243/},
+  abstract = {To improve environmental information gathering of intelligent vehicles in unknown scenes, this brief presents a hierarchical online informative path planning (IPP) framework containing global action optimization and local path planning. Particularly, we propose a lightweight kernel-based Bayesian optimization for IPP (KBO-IPP) to facilitate highly efficient information utility evaluation and decision-making of control actions. Specifically, KBO-IPP can infer the exact environmental mutual information (MI) and associated uncertainties with an approximate logarithmic complexity, eliminating the need for explicit model training. We develop a new information-theoretic objective function consisting of travel cost and predicted MI values with uncertainties to achieve the balance between high MI values (exploitation) and high prediction variances (exploration). To enhance the optimality of IPP, the past unselected informative actions are also incorporated into the global Bayesian optimization. Online real-world experiments validate that our proposed method shows higher efficiency with comparable performance to modern methods in unknown, complex environments.},
 }
 
-@InProceedings{9981251,
+@InProceedings{xu2022confidence,
   author    = {Xu, Yang and Zheng<sup>#</sup>, Ronghao and Zhang, Senlin and Liu, Meiqin},
   booktitle = {2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   title     = {Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration},
@@ -44,17 +49,20 @@
   abbr      = {iros_clam},
   arxiv     = {2309.05200},
   doi       = {10.1109/IROS47612.2022.9981251},
-  keywords  = {Location awareness;Weight measurement;Uncertainty;Simultaneous localization and mapping;Atmospheric measurements;Customer relationship management;Particle measurements},
+  webpage   = {https://ieeexplore.ieee.org/abstract/document/9981251/},
+  abstract  = {This paper mainly studies the localization and mapping of range sensing robots in the confidence-rich map (CRM) and then extends it to provide a full state estimate for information-theoretic exploration. Most previous works about active simultaneous localization and mapping and exploration always assumed the known robot poses or utilized inaccurate information metrics to approximate pose uncertainty, resulting in imbalanced exploration performance and efficiency in the unknown environment. This inspires us to extend the confidence-rich mutual information (CRMI) with measurable pose uncertainty. Specifically, we propose a Rao- Blackwellized particle filter-based localization and mapping scheme (RBPF -CLAM) for CRM, then we develop a new closed-form weighting method to improve the localization accuracy without scan matching. We further derive the uncertain CRMI (UCRMI) with the weighted particles by a more accurate approximation. Simulations and experimental evaluations show the localization accuracy and exploration performance of the proposed methods.},
   video     = {https://youtu.be/t7awYSnC2dw},
 }
 
-@InProceedings{9389045,
+@InProceedings{xu2020keyframe,
   author    = {Xu, Yang and Zheng<sup>#</sup>, Ronghao and Liu, Meiqin and Zhang, Senlin},
   booktitle = {Global Oceans 2020: Singapore – U.S. Gulf Coast},
   title     = {Keyframe-Based Imaging Sonar Localization and Navigation using Elastic Windowed Optimization},
   year      = {2020},
   pages     = {1-7},
   abbr      = {oceans20},
+  webpage   = {https://ieeexplore.ieee.org/abstract/document/9389045/},
+  abstract  = {This paper reports a sonar keyframe-based elastic windowed optimization scheme for underwater localization and navigation using a 2D forward-looking imaging sonar. Due to the sparse acoustic features and the missing elevation angle in sonar images, degeneracy cases (namely under-constrained), such as relative pose ambiguity, exist in underwater sonar simultaneous localization and mapping (SLAM). To extract and fully utilize informative constraints from past sonar frames, we first identify the degeneracy case and choose sonar keyframes (KFs) using the effective information volume criteria. Secondly, we present an elastic windowed optimization framework in which the window size is adjusted according to certain rules. This scheme is also more robust to outliers from the frontend. Finally, the feasibility and effectiveness of the proposed method are verified through the comparative simulation.},
   doi       = {10.1109/IEEECONF38699.2020.9389045},
 }
 
@@ -68,19 +76,23 @@
   abbr      = {ras_bai},
   arxiv     = {2110.11162},
   doi       = {10.1016/j.robot.2022.104085},
+  webpage   = {https://www.sciencedirect.com/science/article/pii/S0921889022000422},
+  abstract  = {This paper presents a hierarchical framework for multi-robot temporal logic task planning. We assume that each robot has its individual task specification and the robots have to jointly satisfy a global collaborative task specification, both described in finite linear temporal logic. To reduce the overall computational complexity, a central server firstly extracts and decomposes a collaborative task sequence from the automaton corresponding to the collaborative task specification, and allocates the subtasks in the sequence to robots. The robots then synthesize their initial execution strategies based on locally constructed product automatons, which integrate task requirements of the assigned collaborative tasks and their individual task specifications. Further, to reduce robots’ wait time in collaborations, we propose a distributed execution strategy adjusting mechanism to iteratively improve the time efficiency of robots. Finally, we prove the completeness of the proposed framework under assumptions, and analyze its time complexity and optimality. Extensive simulation results verify the scalability and optimization efficiency of the proposed method.},
   publisher = {Elsevier},
 }
 
 @Article{xu2023care,
   author    = {Xu, Yang and Zheng<sup>#</sup>, Ronghao and Zhang, Senlin and Liu, Meiqin and Huang, Shoudong},
-  journal   = {IEEE Robotics and Automation Letters},
+  journal   = {IEEE Robotics and Automation Letters (presented at ICRA 2024)},
   title     = {CARE: Confidence-rich Autonomous Robot Exploration using Bayesian Kernel Inference and Optimization},
   year      = {2023},
   abbr      = {care_2023},
   arxiv     = {2309.05200},
   code      = {https://github.com/Shepherd-Gregory/BKIO-Exploration},
-  comments  = {<b style="color:red;">Also presented at ICRA 2024"</b>},
   doi       = {10.1109/LRA.2023.3313054},
+  webpage   = {https://ieeexplore.ieee.org/abstract/document/10243037/},
+  supp      = {RAL23_arxiv_full.pdf},
+  abstract  = {In this letter, we consider improving the efficiency of information-based autonomous robot exploration in unknown and complex environments. We first utilize Gaussian process (GP) regression to learn a surrogate model to infer the confidence-rich mutual information (CRMI) of querying control actions, then adopt an objective function consisting of predicted CRMI values and prediction uncertainties to conduct Bayesian optimization (BO), i.e., GP-based BO (GPBO). The trade-off between the best action with the highest CRMI value (exploitation) and the action with high prediction variance (exploration) can be realized. To further improve the efficiency of GPBO, we propose a novel lightweight information gain inference method based on Bayesian kernel inference and optimization (BKIO), achieving an approximate logarithmic complexity without the need for training. BKIO can also infer the CRMI and generate the best action using BO with bounded cumulative regret, which ensures its comparable accuracy to GPBO with much higher efficiency. Extensive numerical and real-world experiments show the desired efficiency of our proposed methods without losing exploration performance in different unstructured, cluttered environments.},
   publisher = {IEEE},
 }
 
@@ -95,6 +107,8 @@
   abbr      = {tim-2022},
   arxiv     = {2106.16032},
   doi       = {10.1109/TIM.2022.3156980},
+  webpage   = {https://ieeexplore.ieee.org/abstract/document/9729232/},
+  abstract  = {This article focuses on feature-based underwater localization and navigation for autonomous underwater vehicles (AUVs) using 2-D imaging sonar measurements. The sparsity of underwater acoustic features and the loss of elevation angle in sonar images may introduce wrong feature matches or insufficient features for optimization-based underwater localization (i.e., underconstrained/degeneracy cases). This motivates us to propose a novel inertial-aided sliding window optimization framework to improve the estimation accuracy and the robustness to front-end outliers. Concretely, we first discriminate underconstrained/well-constrained sonar frames and define sonar keyframes (SKFs) based on the Jacobian matrix derived from odometry and sonar measurements. To utilize the past well-constrained SKFs mostly, we design a size-adjustable windowed back-end optimization scheme based on singular values. We also prove that the landmark triangulation failure (navigation problem) caused by sonar motion can be solved in 2-D scenes. Comparative simulation and evaluation on a public dataset show that the proposed method outperforms the existing ones in pose estimation and robustness even without loop closure and also ensures the real-time performance for online applications.},
   publisher = {IEEE},
 }
 
