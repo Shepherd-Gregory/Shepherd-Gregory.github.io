@@ -46,7 +46,7 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 <h2>Academic services</h2>
 
-<b>Chair</b>: ICRA 2024, Session co-Chair (SLAM VI).
+<b>Conference Services</b>: ICRA 2024, Session co-Chair (SLAM VI).
 
 <b>Membership</b>: IEEE, IEEE Robotics and Automation Society (RAS), CAA.
 
