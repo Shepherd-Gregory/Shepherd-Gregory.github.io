@@ -46,6 +46,8 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 <h2>Academic services</h2>
 
+<b>Chair</b>: ICRA 2024, Session co-Chair (SLAM VI).
+
 <b>Membership</b>: IEEE, IEEE Robotics and Automation Society (RAS), CAA.
 
 <b>Journal Reviewer</b>: IEEE Transactions on Instrumentation and Measurement, IEEE/CAA Journal of Automatica Sinica, Measurement Science and Technology, Information Fusion.
@@ -75,8 +77,6 @@ My research interests include active SLAM, autonomous exploration, informative p
 - **IROS 2022 (Kyoto, Japan)** - Confidence-rich localization and mapping based on particle filter for robotic exploration. [Video](https://youtu.be/t7awYSnC2dw)
 
 - **IROS 2021 (Prague, Czech)** - CRMI: Confidence-rich mutual information for information-theoretic mapping, Video here: [Youtube](https://youtu.be/pUcGST2W_m8), [Bilibili](https://www.bilibili.com/video/BV1vQ4y1e77y?share_source=copy_web)
-
-
 
 <h2>Posts and blogs</h2>
 
