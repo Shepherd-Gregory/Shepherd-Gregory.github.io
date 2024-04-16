@@ -1,8 +1,8 @@
 <div class="news">
   <h2>News</h2>
   {% if site.news  %}
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
+    <div class="table-responsive" style="height: 350px; overflow-y:scroll">
+      <table class="table table-sm table-borderless" style="width: 100%">
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
         <tr>
