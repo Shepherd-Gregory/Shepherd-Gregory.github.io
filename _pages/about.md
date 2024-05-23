@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Postdoc Research Fellow, <a href="https://www.zju.edu.cn/"> ZJU</a>
+description: Postdoc Research Fellow, <a href="https://person.zju.edu.cn/0623C27"> ZJU Homepage(CN)</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ years: [2024, 2023, 2022, 2021, 2020, 2019, 2018]
 
 <h2><font color="#0000dd">Brief bio</font></h2>
 
-I am currently a Postdoctoral Research Fellow at **Zhejiang University**. I received my D. Eng. degree at **Zhejiang University** (2023) under the supervision of Prof. [Meiqin Liu](https://scholar.google.com/citations?user=T07OWMkAAAAJ) and Prof. [Ronghao Zheng](https://scholar.google.com/citations?user=LxgdmqYAAAAJ).  I was also a visiting Ph.D. student with the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). 
+I am currently a Postdoctoral Research Fellow at **Zhejiang University**, China. I received my D. Eng. degree at **Zhejiang University** (2023) under the supervision of Prof. [Meiqin Liu](https://scholar.google.com/citations?user=T07OWMkAAAAJ) and Prof. [Ronghao Zheng](https://scholar.google.com/citations?user=LxgdmqYAAAAJ).  I was also a visiting Ph.D. student with the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). 
 
 <div class="row  align-items-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -68,7 +68,7 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 <h2>Talks and presentations</h2>
 
-- **Incoming ICRA 2024 (Yokohama, Japan)** - CARE: Confidence-rich autonomous robot exploration using Bayesian kernel inference and optimization.
+- **ICRA 2024 (Yokohama, Japan)** - CARE: Confidence-rich autonomous robot exploration using Bayesian kernel inference and optimization. [Video](https://youtu.be/xM2NbAQnvgs)
 
 - 2023-05-18: On-site talk at [MiLab](https://milab.westlake.edu.cn/) of Westlake University. (Invited by Prof. [Donglin Wang](https://milab.westlake.edu.cn/index.html))~
 
