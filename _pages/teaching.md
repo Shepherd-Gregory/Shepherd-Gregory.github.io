@@ -9,8 +9,8 @@ nav: true
 
 **Co-supervised students**
 
--	xx (M.Sc, xx), 2023.11 – Present. 
+-	Peng Qi (M.Sc, 2023), 2023.11 – Present. 
+-	Wenhao Jia (M.Sc, 2022), 2023.11 – Present. 
 
 ---
-
 

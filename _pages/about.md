@@ -46,11 +46,13 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 <h2>Academic services</h2>
 
+**Editorial Services**: IEEE RO-MAN 2024, Associate Editor.
+
 <b>Conference Services</b>: ICRA 2024, Session co-Chair (SLAM VI).
 
 <b>Membership</b>: IEEE, IEEE Robotics and Automation Society (RAS), CAA.
 
-<b>Journal Reviewer</b>: IEEE Transactions on Instrumentation and Measurement, IEEE/CAA Journal of Automatica Sinica, Measurement Science and Technology, Information Fusion.
+<b>Journal Reviewer</b>: IEEE Trans. Cognitive & Development Sys, IEEE Transactions on Instrumentation and Measurement, IEEE/CAA Journal of Automatica Sinica, Measurement Science and Technology, Information Fusion.
 
 <b>Conference Reviewer</b>: ICRA, IROS, AIM, ICONIP(International Conference on Neural Information Processing), CCC(China Control Conference), CCDM(China Conference on Data Mining)
 
