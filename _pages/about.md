@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Postdoc Research Fellow, <a href="https://person.zju.edu.cn/0623C27"> ZJU Homepage(CN)</a>
+description: Postdoc Research Fellow, <a href="https://person.zju.edu.cn/xuyang94"> ZJU Homepage(CN)</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ years: [2024, 2023, 2022, 2021, 2020, 2019, 2018]
 
 <h2><font color="#0000dd">Brief bio</font></h2>
 
-I am currently a Postdoctoral Research Fellow at **Zhejiang University**, China. I received my D. Eng. degree at **Zhejiang University** (2023) under the supervision of Prof. [Meiqin Liu](https://scholar.google.com/citations?user=T07OWMkAAAAJ) and Prof. [Ronghao Zheng](https://scholar.google.com/citations?user=LxgdmqYAAAAJ).  I was also a visiting Ph.D. student with the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). 
+I am currently a Postdoctoral Research Fellow supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) at **Zhejiang University**, China. I received my D. Eng. degree at **Zhejiang University** (2023) under the supervision of Prof. [Meiqin Liu](https://scholar.google.com/citations?user=T07OWMkAAAAJ) and Prof. [Ronghao Zheng](https://scholar.google.com/citations?user=LxgdmqYAAAAJ).  I was also a visiting Ph.D. student with the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). 
 
 <div class="row  align-items-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -46,13 +46,13 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 <h2>Academic services</h2>
 
-**Editorial Services**: IEEE RO-MAN 2024, Associate Editor.
+**Editorial Services**: **ICRA 2025**, Associate Editor;  **RO-MAN 2024**, Associate Editor.
 
-<b>Conference Services</b>: ICRA 2024, Session co-Chair (SLAM VI).
+<b>Conference Services</b>: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024, Invited Session Chair.
 
 <b>Membership</b>: IEEE, IEEE Robotics and Automation Society (RAS), CAA.
 
-<b>Journal Reviewer</b>: IEEE Trans. Cognitive & Development Sys, IEEE Transactions on Instrumentation and Measurement, IEEE/CAA Journal of Automatica Sinica, Measurement Science and Technology, Information Fusion.
+<b>Journal Reviewer</b>: IEEE Robotics & Automation Letters, IEEE Trans. Cognitive Development System, IEEE Trans. Intelligent Transportation Systems, IEEE Trans. Intelligent Vehicles, IEEE Trans. Industrial Informatics, IEEE/CAA Journal of Automatica Sinica, Robotics and Autonomous Systems, Measurement Science & Technology, IEEE Sensor Journal.
 
 <b>Conference Reviewer</b>: ICRA, IROS, AIM, ICONIP(International Conference on Neural Information Processing), CCC(China Control Conference), CCDM(China Conference on Data Mining)
 
@@ -60,6 +60,7 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 <h2>Awards</h2>
 
+- National Postdoctoral Program for Innovative Talents (10 in automation nationwide), 2024
 - Chinese National Scholarship for Ph.D. Students (2%), Oct. 2022
 - Chinese Scholarship Council for Joint Ph.D. Students, Jul. 2022
 - Academic Rising Stars of Ph.D. Students, Zhejiang University, Aug. 2022
@@ -71,6 +72,8 @@ My research interests include active SLAM, autonomous exploration, informative p
 <h2>Talks and presentations</h2>
 
 - **ICRA 2024 (Yokohama, Japan)** - CARE: Confidence-rich autonomous robot exploration using Bayesian kernel inference and optimization. [Video](https://youtu.be/xM2NbAQnvgs)
+
+- 2024-04-27: Online talk & session chair at PRE-ICRA 2024. (Invited by CAA TC on Hybrid Intelligence) 
 
 - 2023-05-18: On-site talk at [MiLab](https://milab.westlake.edu.cn/) of Westlake University. (Invited by Prof. [Donglin Wang](https://milab.westlake.edu.cn/index.html))~
 
