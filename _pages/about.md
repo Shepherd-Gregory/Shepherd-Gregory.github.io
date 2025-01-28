@@ -13,7 +13,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
-years: [2024, 2023, 2022, 2021, 2020, 2019, 2018]
+years: [2025, 2024, 2023, 2022, 2021, 2020]
 ---
 
 <h2><font color="#0000dd">Brief bio</font></h2>
@@ -48,7 +48,7 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 **Editorial Services**: **ICRA 2025**, Associate Editor;  **RO-MAN 2024**, Associate Editor.
 
-<b>Conference Services</b>: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024, Invited Session Chair.
+<b>Conference Services</b>: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024, PC Member/Invited Session Chair.
 
 <b>Membership</b>: IEEE, IEEE Robotics and Automation Society (RAS), CAA.
 
