@@ -112,18 +112,24 @@
   publisher = {IEEE},
 }
 
-@InProceedings{Zhu2025task,
+@InProceedings{zhu2025task,
   author    = {Zhu, Shaohao and Zhao, Yixian and Xu, Yang and Chen, Anjun and Chen, Jiming and Xu, Jinming},
   booktitle = {2025 IEEE International Conference on Robotics and Automation (ICRA)},
   title     = {{TaskExp:} Enhancing Generalization of Multi-Robot Exploration with Multi-Task Pre-Training},
   year      = {2025},
+  pages     = {1-7},
+  abbr      = {icra_taskexp},  
+  abstract  = {We aim to develop a general multi-agent reinforcement learning (MARL) policy that enables a group of robots to efficiently explore large-scale, unknown environments with random pose initialization. Existing MARL-based multirobot exploration methods face challenges in reliably mapping observations to actions in large-scale scenarios and lack of zero-shot generalization to unknown environments. To this end, we propose a generic multi-task pre-training algorithm (termed TaskExp) to enhance the generalization of learningbased policies. In particular, we design a decision-related task to guide the policy to focus on valuable subspaces of the action space, improving the reliability of policy mapping. Moreover, two perception-related tasks–Location Estimation and Map Prediction–are designed to enhance the zero-shot capability of the policy by guiding it to extract general invariant features from unknown environments. With TaskExp pre-training, our policy significantly outperforms state-of-the-art planningbased methods in large-scale scenarios and demonstrates strong zero-shot performance in unseen environments. Furthermore, TaskExp can also be easily integrated to improve the existing learning-based multi-robot exploration methods.},
 }
 
-@InProceedings{Qian2025afrlio,
+@InProceedings{qian2025afrlio,
   author    = {Qian, Chenglong and Xu, Yang and Shi, Xiufang and Chen, Jiming and Li, Liang},
   booktitle = {2025 IEEE International Conference on Robotics and Automation (ICRA)},
   title     = {AF-RLIO: Adaptive Fusion of Radar-LiDAR-Inertial Information for Robust Odometry in Challenging Environments},
   year      = {2025},
+  pages     = {1-7},
+  abbr      = {icra_afrlio},
+  abstract  = {In robotic navigation, maintaining precise pose estimation and navigation in complex and dynamic environments is crucial. However, environmental challenges such as smoke, tunnels, and adverse weather can significantly degrade the performance of single-sensor systems like LiDAR or GPS, compromising the overall stability and safety of autonomous robots. To address these challenges, we propose AF-RLIO: an adaptive fusion approach that integrates 4D millimeterwave radar, LiDAR, inertial measurement unit (IMU), and GPS to leverage the complementary strengths of these sensors for robust odometry estimation in complex environments. Our method consists of three key modules. Firstly, the pre-processing module utilizes radar data to assist LiDAR in removing dynamic points and determining when environmental conditions are degraded for LiDAR. Secondly, the front-end odometry selects appropriate point cloud data for scan-to-submap matching and tightly couples it with the IMU using the Iterative Error State Kalman Filter. Lastly, the back-end optimization module balances weights between front-end odometry and GPS data, constructing a pose graph for optimization. The proposed approach has been evaluated on datasets and tested in realworld robotic environments, demonstrating its effectiveness and advantages over existing methods in challenging conditions such as smoke and tunnels.},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
