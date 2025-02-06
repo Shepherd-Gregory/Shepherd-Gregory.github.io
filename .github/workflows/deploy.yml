@@ -16,10 +16,11 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-    - name: Setup Ruby
-      uses: actions/setup-ruby@v1
+    - name: Setup Ruby 💎
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.1'
+        ruby-version: "3.3.5"
+        bundler-cache: true
     - name: Enable bundler cache
       uses: actions/cache@v2
       with:
