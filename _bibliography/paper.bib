@@ -123,13 +123,21 @@
 }
 
 @InProceedings{qian2025afrlio,
-  author    = {Qian, Chenglong and Xu, Yang and Shi, Xiufang and Chen, Jiming and Li<sup>#</sup>, Liang},
+  author    = {Qian*, Chenglong and Xu*, Yang and Shi, Xiufang and Chen, Jiming and Li<sup>#</sup>, Liang},
   booktitle = {2025 IEEE International Conference on Robotics and Automation (ICRA)},
   title     = {AF-RLIO: Adaptive Fusion of Radar-LiDAR-Inertial Information for Robust Odometry in Challenging Environments},
   year      = {2025},
   pages     = {1-7},
   abbr      = {icra_afrlio},
   abstract  = {In robotic navigation, maintaining precise pose estimation and navigation in complex and dynamic environments is crucial. However, environmental challenges such as smoke, tunnels, and adverse weather can significantly degrade the performance of single-sensor systems like LiDAR or GPS, compromising the overall stability and safety of autonomous robots. To address these challenges, we propose AF-RLIO: an adaptive fusion approach that integrates 4D millimeterwave radar, LiDAR, inertial measurement unit (IMU), and GPS to leverage the complementary strengths of these sensors for robust odometry estimation in complex environments. Our method consists of three key modules. Firstly, the pre-processing module utilizes radar data to assist LiDAR in removing dynamic points and determining when environmental conditions are degraded for LiDAR. Secondly, the front-end odometry selects appropriate point cloud data for scan-to-submap matching and tightly couples it with the IMU using the Iterative Error State Kalman Filter. Lastly, the back-end optimization module balances weights between front-end odometry and GPS data, constructing a pose graph for optimization. The proposed approach has been evaluated on datasets and tested in realworld robotic environments, demonstrating its effectiveness and advantages over existing methods in challenging conditions such as smoke and tunnels.},
+}
+
+@Article{li2025deform,
+  author   = {Jin Li*, Yang Xu*, Xiufang Shi, Liang Li<sup>#</sup>},
+  journal  = {IEEE Robotics  and Automation Letters (RA-L)},
+  title    = {DEFORM: Adaptive Formation Reconfiguration of Multi-robot Systems inConfined Environments},
+  year     = {2025},
+  abstract = {Achieving desired formation patterns without collisions is rather challenging for multi-robot systems in unknown obstacle-rich and confined environments, especially in narrow corridor scenes containing large-volume obstacles. To address this, we propose an adaptive formation reconfiguration method that can dynamically switch to the optimal formation pattern based on the current obstacle distribution. Specifically, we develop a novel obstacle-free maximum passable width detection method to formulate recursive optimization problems, which can determine the currently best formation shape and refine local goals away from obstacles. Then we design a task assignment module for the temporary leader robot and a consensus-based distributed formation controller for each robot using model predictive control to ensure rapid convergence to the suggested formation shape. In addition, we utilize the potential field approach for each robot to improve collision avoidance. Extensive Gazebo simulations and real-world experiments in confined and obstacle-rich scenes verify the superior performance of our methods compared to cutting-edge methods.},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

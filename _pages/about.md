@@ -52,7 +52,7 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 <b>Membership</b>: IEEE, IEEE Robotics and Automation Society (RAS), CAA.
 
-<b>Journal Reviewer</b>: IEEE Robotics & Automation Letters, IEEE Trans. Cognitive Development System, IEEE Trans. Intelligent Transportation Systems, IEEE Trans. Intelligent Vehicles, IEEE Trans. Industrial Informatics, IEEE/CAA Journal of Automatica Sinica, Robotics and Autonomous Systems, Measurement Science & Technology, IEEE Sensor Journal.
+<b>Journal Reviewer</b>: IEEE Trans. Autom. Sci. Eng., IEEE Robot. Autom. Lett., IEEE Trans. Cogn. Develop. Syst., IEEE Trans. Intell. Transport. Syst., IEEE Trans. Intell. Vehicle., IEEE Trans. Instrum. Meas., IEEE Trans. Indus. Inform., IEEE/CAA Journal of Autom. Sin., Robot. Auton. Syst., Meas. Sci.  Tech., IEEE Sensor J.
 
 <b>Conference Reviewer</b>: ICRA, IROS, AIM, ICONIP(International Conference on Neural Information Processing), CCC(China Control Conference), CCDM(China Conference on Data Mining)
 

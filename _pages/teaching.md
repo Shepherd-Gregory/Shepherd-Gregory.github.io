@@ -16,6 +16,7 @@ nav: true
 -	Yixian Zhao (Ph.D., 2021)
 -	Jing Zeng (Ph.D., 2019)
 -	Chenglong Qian (M.Sc, 2023)
+-	Bo Pang (Ph.D., 2023)
 
 ---
 
