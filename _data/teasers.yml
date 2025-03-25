@@ -1,5 +1,7 @@
 ral_deform:
   img: teaser/ral_deform.png
+ral_3drecon:
+  img: teaser/ral_3drecon.png
 icra_taskexp:
   img: teaser/icra_taskexp.png
 icra_afrlio:

@@ -121,6 +121,10 @@
   pages    = {1--8},
   volume   = {},
   abbr	   = {ral_deform},
+  doi	   = {10.1109/LRA.2025.3552998},
+  webpage  = {https://ieeexplore.ieee.org/document/10933518},
+  code 	   = {https://github.com/NeSC-IV/DEFORM},
+  video    = {https://youtu.be/Gp7ctSpoegI},
   abstract = {Achieving desired formation patterns without collisions is rather challenging for multi-robot systems in unknown obstacle-rich and confined environments, especially in narrow corridor scenes containing large-volume obstacles. To address this, we propose an adaptive formation reconfiguration method that can dynamically switch to the optimal formation pattern based on the current obstacle distribution. Specifically, we develop a novel obstacle-free maximum passable width detection method to formulate recursive optimization problems, which can determine the currently best formation shape and refine local goals away from obstacles. Then we design a task assignment module for the temporary leader robot and a consensus-based distributed formation controller for each robot using model predictive control to ensure rapid convergence to the suggested formation shape. In addition, we utilize the potential field approach for each robot to improve collision avoidance. Extensive Gazebo simulations and real-world experiments in confined and obstacle-rich scenes verify the superior performance of our methods compared to cutting-edge methods.},
   publisher = {IEEE},
 }
@@ -144,5 +148,19 @@
   abbr      = {icra_afrlio},
   abstract  = {In robotic navigation, maintaining precise pose estimation and navigation in complex and dynamic environments is crucial. However, environmental challenges such as smoke, tunnels, and adverse weather can significantly degrade the performance of single-sensor systems like LiDAR or GPS, compromising the overall stability and safety of autonomous robots. To address these challenges, we propose AF-RLIO: an adaptive fusion approach that integrates 4D millimeterwave radar, LiDAR, inertial measurement unit (IMU), and GPS to leverage the complementary strengths of these sensors for robust odometry estimation in complex environments. Our method consists of three key modules. Firstly, the pre-processing module utilizes radar data to assist LiDAR in removing dynamic points and determining when environmental conditions are degraded for LiDAR. Secondly, the front-end odometry selects appropriate point cloud data for scan-to-submap matching and tightly couples it with the IMU using the Iterative Error State Kalman Filter. Lastly, the back-end optimization module balances weights between front-end odometry and GPS data, constructing a pose graph for optimization. The proposed approach has been evaluated on datasets and tested in realworld robotic environments, demonstrating its effectiveness and advantages over existing methods in challenging conditions such as smoke and tunnels.},
 }
+
+@Article{zeng2025multi,
+  author   = {Zeng, Jing and Ye<sup>#</sup>, Qi and Liu, Tianle and Xu, Yang and Li, Jin and Xu, Jinming and Li, Liang and Chen, Jiming},
+  journal  = {IEEE Robotics and Automation Letters},
+  title    = {Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance},
+  year     = {2025},
+  number   = {},
+  pages    = {1--8},
+  volume   = {},
+  abbr	   = {ral_3drecon},
+  abstract = {Implicit neural representations and 3D Gaussian splatting (3DGS) have shown great potential for scene reconstruction. Recent studies have expanded their applications in autonomous reconstruction through task assignment methods. However, these methods are mainly limited to single robot, and rapid reconstruction of large-scale scenes remains challenging. Additionally, task-driven planning based on surface uncertainty is prone to being trapped in local optima. To this end, we propose the first 3DGS-based centralized multi-robot autonomous 3D reconstruction framework. To further reduce time cost of task generation and improve reconstruction quality, we integrate online open-vocabulary semantic segmentation with surface uncertainty of 3DGS, focusing view sampling on regions with high instance uncertainty. Finally, we develop a multi-robot collaboration strategy with mode and task assignments improving reconstruction quality while ensuring planning efficiency. Our method demonstrates the highest reconstruction quality among all planning methods and superior planning efficiency compared to existing multi-robot methods. We deploy our method on multiple robots, and results show that it can effectively plan view paths and reconstruct scenes with high quality.},
+  publisher = {IEEE},
+}
+
 
 @Comment{jabref-meta: databaseType:bibtex;}
