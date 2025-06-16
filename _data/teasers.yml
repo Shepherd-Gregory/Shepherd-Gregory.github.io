@@ -1,3 +1,7 @@
+iros_pbmot:
+  img: teaser/iros_pbmot.png
+iros_dhcme:
+  img: teaser/iros_dhcme.png 
 ral_deform:
   img: teaser/ral_deform.png
 ral_3drecon:
