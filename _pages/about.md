@@ -18,7 +18,7 @@ years: [2025, 2024, 2023, 2022, 2021, 2020]
 
 <h2><font color="#0000dd">Brief bio</font></h2>
 
-I am currently a Postdoctoral Research Fellow supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) at **Zhejiang University**, China. I received my D. Eng. degree at **Zhejiang University** (2023) under the supervision of Prof. [Meiqin Liu](https://scholar.google.com/citations?user=T07OWMkAAAAJ) and Prof. [Ronghao Zheng](https://scholar.google.com/citations?user=LxgdmqYAAAAJ).  I was also a visiting Ph.D. student with the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang) and Dr. [Liang Zhao](https://www.research.ed.ac.uk/en/persons/liang-zhao). 
+I am currently a Postdoc supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) at **Zhejiang University**, China. Prior to this, I received my D. Eng. degree in robotics from **Zhejiang University** at 2023, supervised by Prof. Meiqin Liu and Prof. Ronghao Zheng.  From 2022 to 2023, I was a visiting scholar with the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang). 
 
 <div class="row  align-items-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,7 +30,7 @@ I am currently a Postdoctoral Research Fellow supervised by Prof. [Jiming Chen](
 
 <h2>Research interests</h2>
 
-My research interests include active SLAM, autonomous exploration, informative path planning, and robot learning in robotics.  My current research projects mainly focus on **learning-based robot exploration in hazardous and complex environments** using ground robots. Welcome to reach out via email: [garryhsu0901@gmail.com](mailto:garryhsu0901@gmail.com)(Permanent)/[xuyang94@zju.edu.cn](mailto:xuyang94@zju.edu.cn) (Academic).
+My research interests include active SLAM, autonomous exploration, informative path planning, and robot learning in robotics.  My current research projects mainly focus on **learning-based robot exploration in hazardous and complex environments**. Welcome to reach out via email: [garryhsu0901@gmail.com](mailto:garryhsu0901@gmail.com)(Permanent)/[xuyang94@zju.edu.cn](mailto:xuyang94@zju.edu.cn) (Academic).
 
 ---
 
@@ -46,15 +46,17 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 <h2>Academic services</h2>
 
-**Editorial Services**: **ICRA 2025**, Associate Editor;  **RO-MAN 2024/2025**, Associate Editor.
+ **Journal Editors**: **Biomimetic Intelligence and Robotics**（BIRob）, Youth Editorial Board.
 
-<b>Conference Services</b>: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024, PC Member/Invited Session Chair.
+**Conference Editors**: **ICRA 2025**, Associate Editor;  **RO-MAN 2024/2025**, Associate Editor; **SII 2026**, Associate Editor.
+
+<b>Conference Services</b>: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024/2025, PC Member/Invited Session Chair.
 
 <b>Membership</b>: IEEE, IEEE Robotics and Automation Society (RAS), CAA.
 
-<b>Journal Reviewer</b>: IEEE Trans. Autom. Sci. Eng., IEEE Robot. Autom. Lett., IEEE Trans. Cogn. Develop. Syst., IEEE Trans. Intell. Transport. Syst., IEEE Trans. Intell. Vehicle., IEEE Trans. Instrum. Meas., IEEE Trans. Indus. Inform., IEEE/CAA Journal of Autom. Sin., Robot. Auton. Syst., Meas. Sci.  Tech., IEEE Sensor J.
+<b>Journal Reviewer</b>: IEEE T-NNLS/RA-L/T-ASE/T-II/T-CDS/T-ITS/T-IV/T-IM/Robotics and Autonomous Systems (RAS), IEEE/CAA Journal of Automatica Sinica (JAS), IEEE Sensor Journal, Information Fusion, Measurement Science and Technology, et al.
 
-<b>Conference Reviewer</b>: ICRA, IROS, AIM, ICONIP(International Conference on Neural Information Processing), CCC(China Control Conference), CCDM(China Conference on Data Mining)
+<b>Conference Reviewer</b>: ICRA, IROS, AIM, ICONIP, et al.
 
 ---
 
@@ -70,6 +72,8 @@ My research interests include active SLAM, autonomous exploration, informative p
 ---
 
 <h2>Talks and presentations</h2>
+
+- 2025-04-02: On-site talk at SRIAS of Tongji University. (Invited by Prof. Bin He)
 
 - **ICRA 2024 (Yokohama, Japan)** - CARE: Confidence-rich autonomous robot exploration using Bayesian kernel inference and optimization. [Video](https://youtu.be/xM2NbAQnvgs)
 
