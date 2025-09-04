@@ -8,7 +8,7 @@ profile:
   align: right
   image: snowyoung.jpg
 
-selected_projects: true
+selected_projects: false
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -18,7 +18,7 @@ years: [2025, 2024, 2023, 2022, 2021, 2020]
 
 <h2><font color="#0000dd">Brief bio</font></h2>
 
-I am currently a Postdoc supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) at **Zhejiang University**, China. Prior to this, I received my D. Eng. degree in robotics from **Zhejiang University** at 2023, supervised by Prof. Meiqin Liu and Prof. Ronghao Zheng.  From 2022 to 2023, I was a visiting scholar with the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang). 
+I am currently a Postdoc supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) at **Zhejiang University**, China. Prior to this, I received my D. Eng. degree in robotics from **Zhejiang University** at 2023, supervised by Prof. Meiqin Liu and Prof. Ronghao Zheng.  From 2022 to 2023, I was  also a visiting scholar with the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang). 
 
 <div class="row  align-items-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,7 +30,7 @@ I am currently a Postdoc supervised by Prof. [Jiming Chen](https://person.zju.ed
 
 <h2>Research interests</h2>
 
-My research interests include active SLAM, autonomous exploration, informative path planning, and robot learning in robotics.  My current research projects mainly focus on **learning-based robot exploration in hazardous and complex environments**. Welcome to reach out via email: [garryhsu0901@gmail.com](mailto:garryhsu0901@gmail.com)(Permanent)/[xuyang94@zju.edu.cn](mailto:xuyang94@zju.edu.cn) (Academic).
+My research interests include active SLAM, autonomous exploration, informative path planning, and robot learning.  My current research projects mainly focus on **learning-based robot exploration in hazardous and complex environments**. Welcome to reach out via email: [garryhsu0901@gmail.com](mailto:garryhsu0901@gmail.com)(Permanent)/[xuyang94@zju.edu.cn](mailto:xuyang94@zju.edu.cn) (Academic).
 
 ---
 
@@ -46,13 +46,13 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 <h2>Academic services</h2>
 
- **Journal Editors**: **Biomimetic Intelligence and Robotics**（BIRob）, Youth Editorial Board.
+ **Journal Editors**: **Biomimetic Intelligence and Robotics**（BIRob）, Young Editorial Board.
 
-**Conference Editors**: **ICRA 2025**, Associate Editor;  **RO-MAN 2024/2025**, Associate Editor; **SII 2026**, Associate Editor.
+**Conference Editors**: **ICRA, Associate Editor** (2025-2026);  **RO-MAN**, Associate Editor (2024-2025); **SII 2026**, Associate Editor.
 
 <b>Conference Services</b>: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024/2025, PC Member/Invited Session Chair.
 
-<b>Membership</b>: IEEE, IEEE Robotics and Automation Society (RAS), CAA.
+<b>Membership</b>: IEEE, IEEE Robotics and Automation Society (RAS), CCF/CAA/CAAI.
 
 <b>Journal Reviewer</b>: IEEE T-NNLS/RA-L/T-ASE/T-II/T-CDS/T-ITS/T-IV/T-IM/Robotics and Autonomous Systems (RAS), IEEE/CAA Journal of Automatica Sinica (JAS), IEEE Sensor Journal, Information Fusion, Measurement Science and Technology, et al.
 
@@ -93,6 +93,7 @@ See all posts here: [`Posts`](/projects)
 
 {% if page.selected_projects -%}
   <!-- Projects -->
+
   <div>
     {%- assign sorted_projects = site.projects | where: "selected", true | sort: "importance" -%}
     <div class="projects">  

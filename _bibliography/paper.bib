@@ -134,8 +134,9 @@
   booktitle = {2025 IEEE International Conference on Robotics and Automation (ICRA)},
   title     = {{TaskExp:} Enhancing Generalization of Multi-Robot Exploration with Multi-Task Pre-Training},
   year      = {2025},
-  pages     = {1-7},
+  pages     = {6559-6565},
   abbr      = {icra_taskexp},  
+  webpage  = {https://ieeexplore.ieee.org/document/11128456},
   code		= {https://github.com/DuangZhu/TaskExp},
   abstract  = {We aim to develop a general multi-agent reinforcement learning (MARL) policy that enables a group of robots to efficiently explore large-scale, unknown environments with random pose initialization. Existing MARL-based multirobot exploration methods face challenges in reliably mapping observations to actions in large-scale scenarios and lack of zero-shot generalization to unknown environments. To this end, we propose a generic multi-task pre-training algorithm (termed TaskExp) to enhance the generalization of learningbased policies. In particular, we design a decision-related task to guide the policy to focus on valuable subspaces of the action space, improving the reliability of policy mapping. Moreover, two perception-related tasks–Location Estimation and Map Prediction–are designed to enhance the zero-shot capability of the policy by guiding it to extract general invariant features from unknown environments. With TaskExp pre-training, our policy significantly outperforms state-of-the-art planningbased methods in large-scale scenarios and demonstrates strong zero-shot performance in unseen environments. Furthermore, TaskExp can also be easily integrated to improve the existing learning-based multi-robot exploration methods.},
 }
@@ -145,8 +146,9 @@
   booktitle = {2025 IEEE International Conference on Robotics and Automation (ICRA)},
   title     = {AF-RLIO: Adaptive Fusion of Radar-LiDAR-Inertial Information for Robust Odometry in Challenging Environments},
   year      = {2025},
-  pages     = {1-7},
+  pages     = {9876-9822},
   abbr      = {icra_afrlio},
+  webpage   = {https://ieeexplore.ieee.org/document/11128046},
   code	    = {https://github.com/QCL0920/AF-RLIO},
   abstract  = {In robotic navigation, maintaining precise pose estimation and navigation in complex and dynamic environments is crucial. However, environmental challenges such as smoke, tunnels, and adverse weather can significantly degrade the performance of single-sensor systems like LiDAR or GPS, compromising the overall stability and safety of autonomous robots. To address these challenges, we propose AF-RLIO: an adaptive fusion approach that integrates 4D millimeterwave radar, LiDAR, inertial measurement unit (IMU), and GPS to leverage the complementary strengths of these sensors for robust odometry estimation in complex environments. Our method consists of three key modules. Firstly, the pre-processing module utilizes radar data to assist LiDAR in removing dynamic points and determining when environmental conditions are degraded for LiDAR. Secondly, the front-end odometry selects appropriate point cloud data for scan-to-submap matching and tightly couples it with the IMU using the Iterative Error State Kalman Filter. Lastly, the back-end optimization module balances weights between front-end odometry and GPS data, constructing a pose graph for optimization. The proposed approach has been evaluated on datasets and tested in realworld robotic environments, demonstrating its effectiveness and advantages over existing methods in challenging conditions such as smoke and tunnels.},
 }
@@ -164,6 +166,16 @@
   webpage  = {https://ieeexplore.ieee.org/document/10955244},
   video	   = {https://youtu.be/qECcdHzNMZs},
   abstract = {Implicit neural representations and 3D Gaussian splatting (3DGS) have shown great potential for scene reconstruction. Recent studies have expanded their applications in autonomous reconstruction through task assignment methods. However, these methods are mainly limited to single robot, and rapid reconstruction of large-scale scenes remains challenging. Additionally, task-driven planning based on surface uncertainty is prone to being trapped in local optima. To this end, we propose the first 3DGS-based centralized multi-robot autonomous 3D reconstruction framework. To further reduce time cost of task generation and improve reconstruction quality, we integrate online open-vocabulary semantic segmentation with surface uncertainty of 3DGS, focusing view sampling on regions with high instance uncertainty. Finally, we develop a multi-robot collaboration strategy with mode and task assignments improving reconstruction quality while ensuring planning efficiency. Our method demonstrates the highest reconstruction quality among all planning methods and superior planning efficiency compared to existing multi-robot methods. We deploy our method on multiple robots, and results show that it can effectively plan view paths and reconstruct scenes with high quality.},
+  publisher = {IEEE},
+}
+
+@Article{zeng2025diffusion,
+  author   = {Zeng*, Jing and  <em><b>Xu<sup>*</sup></b></em> , <em><b>Yang</b></em> and Liu, Tianle and Ye, Qi and Chen<sup>#</sup>, Jiming},
+  journal  = {IEEE Internet of Things Journal},
+  title    = {Diffusion-based completion for multi-robot active scene reconstruction towards IoT applications},
+  year     = {2025},
+  abbr	   = {iotj_diffusion},
+  abstract = {Autonomous reconstruction of unknown scenes using multiple robots acting as mobile Internet of Things (IoT) nodes becomes a fundamental capability for extensive IoT applications, such as environmental monitoring, and search and rescue. However, existing multi-robot autonomous reconstruction approaches still suffer from incomplete observations, redundant generated coverage tasks, and overly distant assigned tasks. To this end, we first utilize a diffusion-based model for object completion in autonomously reconstructed scenes using 3D Gaussian Splatting, and obtain Gaussian mixture model-based object uncertainties to guide the robots in generating more accurate scanning tasks that fill holes and enhance reconstruction quality. We then design an efficient task filtering mechanism that utilizes clustering frontiers and exploration tasks, as well as instances and reconstruction tasks, enabling the elimination of redundant coverage tasks. We also devise a task reassignment mechanism for robots based on the required travel costs to avoid unnecessary detours, which further improves scanning efficiency. Extensive experimental results show that our method exhibits higher reconstruction quality and superior planning efficiency compared to existing multi-robot autonomous reconstruction methods.},
   publisher = {IEEE},
 }
 
