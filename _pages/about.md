@@ -46,9 +46,9 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 <h2>Academic services</h2>
 
- **Journal Editors**: **Biomimetic Intelligence and Robotics**（BIRob）, Young Editorial Board.
+ **Journal Editors**: **Biomimetic Intelligence and Robotics (BiRob)**, Young Editorial Board; **IET Cyber-Systems and Robotics (IET-CSR)**, Young Editorial Board.
 
-**Conference Editors**: **ICRA, Associate Editor** (2025-2026);  **RO-MAN**, Associate Editor (2024-2025); **SII 2026**, Associate Editor.
+**Conference Editors**: **ICRA, Associate Editor** (2025, 2026);  **RO-MAN**, Associate Editor (2024, 2025); **SII 2026**, Associate Editor.
 
 <b>Conference Services</b>: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024/2025, PC Member/Invited Session Chair.
 
