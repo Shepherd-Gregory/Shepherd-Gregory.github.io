@@ -50,7 +50,7 @@ My research interests include active SLAM, autonomous exploration, informative p
 
 **Conference Editors**: **ICRA, Associate Editor** (2025, 2026);  **RO-MAN**, Associate Editor (2024, 2025); **SII 2026**, Associate Editor.
 
-<b>Conference Services</b>: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024/2025, PC Member/Invited Session Chair.
+<b>Conference Services</b>: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024/2025, PC Member/Invited Session Chair; IROS 2025. Session Chair (Computer Vision for Transportation).
 
 <b>Membership</b>: IEEE, IEEE Robotics and Automation Society (RAS), CCF/CAA/CAAI.
 

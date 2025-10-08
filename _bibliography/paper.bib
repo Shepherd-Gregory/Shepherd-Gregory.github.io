@@ -202,4 +202,16 @@
   abstract  = {Robotic and autonomous driving platforms neces sitate efficient 3D multi-object tracking (MOT) that harmonizes geometric precision, motion robustness, and computational effi ciency. Traditional 3D MOT approaches face critical challenges: geometric similarity metrics (e.g., IoU-based) degrade at long ranges with high computational costs, while distance-based methods fail to capture object orientation and shape; the effects of occlusion and the intricate relative ego-object motion degrade tracking performance in dynamic scenes. To this end, we propose PB-MOT, an online framework integrating two key innovations: ego-motion-compensated state estimation that decouples dynamic interactions; and a rotated ellipse asso ciation mechanism unifying pose and shape-aware matching with adaptive distance constraints. Evaluations on the KITTI benchmark show our PB-MOT achieves a HOTA score of 81.94%, surpassing all published methods, at blazing 2,402.76 FPS on CPU, enabling real-time and high-fidelity perception and tracking for resource-constrained robotic systems.},
 }
 
+@Article{xu2025bato,
+  author   = {Xu, Yang and Shi, Linlin and Li, Liang and Chen<sup>#</sup>, Jiming},
+  journal  = {IEEE/ASME Transactions on Mechatronics},
+  title    = {BATO: Bayesian Trajectory Optimization for Active Environmental Mapping using Autonomous Robots},
+  year     = {2025},
+  abbr	   = {tmech_bato},
+  doi      = {10.1109/TMECH.2025.3619997},
+  webpage  = {},
+  abstract = {Active mapping is a critical capability for robotic exploration tasks such as field rescue and environmental monitoring, where the objective is to plan informative trajectories that maximize environmental information acquisition under resource constraints in unknown environments. However, existing approaches often suffer from myopic planning and inefficient evaluation of informative trajectories. To address these challenges, we propose a Bayesian Trajectory Optimization (BATO) framework that integrates global trajectory optimization with local path smoothing for online active mapping. Specifically, we formulate the informative trajectory optimization problem as a heuristic search for target poses and leverage an efficient kernel-based Bayesian optimization approach to generate optimal pose suggestions over multiple epochs. Our Bayesian optimization method incorporates previously unexplored informative poses to improve solution optimality and introduces a novel information-theoretic objective function that effectively balances exploration and exploitation. Comprehensive evaluations in Gazebo simulations and real-world experiments demonstrate that BATO outperforms state-of-the-art methods in unstructured and cluttered environments, achieving superior active mapping performance.},
+  publisher = {IEEE},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
