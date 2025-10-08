@@ -12,7 +12,7 @@
   Yang Xu
 
 
-  | blog
+  | Brief review of CRMI
 
 </title>
 <meta name="description" content="Yang Xu's personal webpage.
@@ -24,8 +24,8 @@
 " />
 <meta property="og:type" content="object" />
 <meta property="og:title" content="" />
-<meta property="og:url" content="https://shepherd-gregory.github.io/blog/index.html" />
-<meta property="og:description" content="blog" />
+<meta property="og:url" content="https://shepherd-gregory.github.io/projects/20210701_crmi_post/" />
+<meta property="og:description" content="Brief review of CRMI" />
 <meta property="og:image" content="" />
 
 
@@ -46,7 +46,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌞</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/20210701_crmi_post/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -138,8 +138,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/projects/">
                 Posts
@@ -165,8 +163,8 @@
           
           
           
-            <div class = "toggle-container">
-              <a id = "light-toggle">
+            <div class="toggle-container">
+              <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
               </a>
@@ -185,18 +183,48 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Brief review of CRMI</h1>
+    <p class="post-description">Information metric for robot exploration</p>
+  </header>
 
+  <article>
+    <p>我们近期的工作《CRMI: Confidence-rich Mutual Information for Information-theoretic Mapping》已经被IEEE Robotics and Automation Letters (RA-L) 和 IROS 2021 同时接收，并于 IROS 2021 会议上进行了口头汇报。视频地址（Youtube &amp; Bilibili）：</p>
 
-  <ul class="post-list">
-    
-  </ul>
+<ol>
+  <li>
+    <p>Youtube: https://youtu.be/pUcGST2W_m8</p>
+  </li>
+  <li>
+    <p>Bilibili: https://www.bilibili.com/video/BV1vQ4y1e77y/</p>
+  </li>
+</ol>
 
-  
+<p>代码开源如下：<a href="https://github.com/Shepherd-Gregory/CRMI" target="_blank" rel="noopener noreferrer">Github</a></p>
 
+<p><strong>摘要</strong>：本文主要研究基于波束的距离传感（LiDAR，RGB-D，sonar等）机器人的信息论主动建图和探测。传统基于手动调节的反演传感模型（ISM）或核推理的建图方法等会导致精度和效率的不平衡。这促使我们提出了一种新的方法来更准确地计算互信息，这种方法基于占据地图上的连续置信度分布，称为置信度丰富互信息（CRMI）。具体来说，我们通过引入更通用的基于波束的因果传感模型（SCM），而不是根据任务或环境定制参数的ISM，在每个时间步对同一测量锥内的网格单元之间的测量依赖性进行显式建模，并导出所有波束上每个单元的CRMI。CRMI建图的时间效率也允许在线实现。大量的仿真和实验表明，基于CRMI的机器人控制器/规划器在非结构化和杂乱的场景中，甚至在大尺度环境中，可以对未知和模糊区域表现出期望的探测行为。</p>
+
+<p><img src="https://pic3.zhimg.com/80/v2-8d1507faa0a5b49a2d7cb92872f2f93c_720w.png?source=d16d100b" alt="img" style="zoom:50%;"></p>
+
+<p>图1 基于波束的传感器反射模型（诱因变量由红色格子表示）</p>
+
+<p><img src="https://pic1.zhimg.com/80/v2-e59bc142c7ecd9dd0bd30dad84be883f_720w.png?source=d16d100b" alt="img"></p>
+
+<p>图2 (a, b) CRMI/OGMI of INTEL Lab Dataset ; (c, d) CRMI/Aerial view of Freiburg Campus Dataset</p>
+
+<p><img src="https://pic1.zhimg.com/80/v2-258918509a2931f9c14886ae6d523269_720w.png?source=d16d100b" alt="img" style="zoom: 67%;"></p>
+
+<p>图3 (a, b) OGMI/CRMI-based IIG Graph (c, d) 信息增益对比/MI对比</p>
+
+<p><strong>总结</strong>：本文主要为距离传感机器人的信息建图和探测提供了一种新的解决方案，可以有效地计算出更精确的互信息量。值得注意的是，传感器传感锥内的测量相关性通过传感因果模型融合。更新每个被观测单元占据值的概率密度函数并将其用于定义CRMI。仿真结果表明，该方法具有与OGMI相似的探测性能，但在大的杂乱、非结构化环境中具有较高的精度和一致性。该方法还可以推广到三维场景。未来的工作包括加速CRMI计算的方法、更多的野外探测实验和基于连续占据地图（COM）的信息论探测。</p>
+
+<p>【参考文献】</p>
+
+<p>Y. Xu, R. Zheng, M. Liu and S. Zhang, “CRMI: Confidence-Rich Mutual Information for Information-Theoretic Mapping,” <em>IEEE Robotics and Automation Letters</em>, vol. 6, no. 4, pp. 6434-6441, Oct. 2021, doi: <a href="https://ieeexplore.ieee.org/document/9466474" target="_blank" rel="noopener noreferrer">10.1109/LRA.2021.3093023</a>.</p>
+
+<hr>
+
+  </article>
 
 </div>
 
@@ -207,8 +235,8 @@
     
 <footer class="sticky-bottom mt-5">
   <div class="container">
-    &copy; Copyright 2025 Yang  Xu.
-    Powered by <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+    © Copyright 2025 Yang  Xu.
+    Powered by <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme.
 
     
     
