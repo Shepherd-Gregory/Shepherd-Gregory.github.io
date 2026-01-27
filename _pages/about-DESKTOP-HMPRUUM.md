@@ -13,14 +13,12 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
-years: [2026, 2025, 2024, 2023, 2022, 2021, 2020]
+years: [2025, 2024, 2023, 2022, 2021, 2020]
 ---
 
 <h2><font color="#0000dd">Brief bio</font></h2>
 
-I am an incoming associate professor (tenure-track) of **Tongji University**, Shanghai. Prior to this, I worked as a postdoc supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) at **Zhejiang University**, Hangzhou, China. I received my D. Eng. degree from **Zhejiang University** at 2023, supervised by Prof. Meiqin Liu and Prof. Ronghao Zheng. From 2022 to 2023, I was also a visiting scholar with the Robotics Institute, **University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang). 
-
-:sunny: :sunny: :sunny: **I'm seeking highly self-motivated visiting/research assistant/M.S./PhD students for Spring/Fall 2026.** For application, please send an email to me via [y.xu@ieee.org](mailto:y.xu@ieee.org) with the subject “[Position]+[Name]+[Affiliation]”~ Hope we can do some great and interesting things in robotics!
+I am currently a Postdoc supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) at **Zhejiang University**, China. Prior to this, I received my D. Eng. degree from **Zhejiang University** at 2023, supervised by Prof. Meiqin Liu and Prof. Ronghao Zheng.  From 2022 to 2023, I was  also a visiting scholar with the **Robotics Institute, University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang). 
 
 <div class="row  align-items-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,7 +30,7 @@ I am an incoming associate professor (tenure-track) of **Tongji University**, Sh
 
 <h2>Research interests</h2>
 
-My research interests include active perception, learning, and control in robotics.  My current research projects mainly focus on **robot learning for exploring hazardous and complex environments**. Welcome to reach out via email: [y.xu@ieee.org](mailto:y.xu@ieee.org).
+My research interests include active SLAM, autonomous exploration, informative path planning, and robot learning.  My current research projects mainly focus on **learning-based robot exploration in hazardous and complex environments**. Welcome to reach out via email: [garryhsu0901@gmail.com](mailto:garryhsu0901@gmail.com)(Permanent)/[xuyang94@zju.edu.cn](mailto:xuyang94@zju.edu.cn) (Academic).
 
 ---
 
@@ -50,7 +48,7 @@ My research interests include active perception, learning, and control in roboti
 
  **Journal Editors**: **Biomimetic Intelligence and Robotics (BiRob)**, Young Editorial Board; **IET Cyber-Systems and Robotics (IET-CSR)**, Young Editorial Board.
 
-**Conference Editors**: **ICRA, Associate Editor** (2025, 2026);  **RO-MAN**, Associate Editor (2024, 2025, 2026); **SII 2026**, Associate Editor.
+**Conference Editors**: **ICRA, Associate Editor** (2025, 2026);  **RO-MAN**, Associate Editor (2024, 2025); **SII 2026**, Associate Editor.
 
 <b>Conference Services</b>: ICRA 2024, Session Co-Chair; ICUS 2024/2025, PC Member/Invited Session Chair; IROS 2025, Session Chair
 
@@ -66,6 +64,7 @@ My research interests include active perception, learning, and control in roboti
 - Chinese National Scholarship for Ph.D. Students (2%), Oct. 2022
 - Chinese Scholarship Council for Joint Ph.D. Students, Jul. 2022
 - Academic Rising Stars of Ph.D. Students, Zhejiang University, Aug. 2022
+
 
 ---
 
@@ -84,12 +83,3 @@ My research interests include active perception, learning, and control in roboti
 - **IROS 2022 (Kyoto, Japan)** - Confidence-rich localization and mapping based on particle filter for robotic exploration. [Video](https://youtu.be/t7awYSnC2dw)
 
 - **IROS 2021 (Prague, Czech)** - CRMI: Confidence-rich mutual information for information-theoretic mapping, Video here: [Youtube](https://youtu.be/pUcGST2W_m8), [Bilibili](https://www.bilibili.com/video/BV1vQ4y1e77y?share_source=copy_web)
-
-<h2>Recent fundings and grants</h2>
-
-- PI, Natural Science Foundation of China (NSFC), Youth Fund, 2025-2027
-- PI, China Postdoctoral Innovation Talents Support Program, 2024 -2025
-- PI, China Postdoctoral Science Foundation General Project, 2024 -2025
-- Participant, National Key Research and Development Program of China, Key project, 2025-2028
-- Participant, NSFC, Key International (Regional) Joint Research 
-Program, 2026-2030
