@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I'm co-supervising several students interested in robotics with other PhD supervisors. Welcome new collaborators and students and please feel free to contact me via email. Experience, discussion, exploration, and growth. Funding, experimental site and equipment (e.g. Motion capture system, various ground/aerial robots, machining tools, computation platform) are available.
+description: I'm co-supervising several students interested in robotics with other PhD supervisors. Welcome new collaborators and students and please feel free to contact me via email. Experience, discussion, exploration, and growth. Funding, experimental site and equipment (e.g. Motion capture system, various mobile/humanoid/aerial/underwater robots, machining equipments and tools, high-end computation platform) are available.
 nav: true
 
 ---

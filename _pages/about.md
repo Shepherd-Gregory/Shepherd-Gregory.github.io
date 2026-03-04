@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-description: Postdoc Research Fellow, <a href="https://person.zju.edu.cn/xuyang94"> ZJU Homepage(CN)</a>
+# description: Postdoc Research Fellow, <a href="https://person.zju.edu.cn/xuyang94"> ZJU Homepage(CN)</a>
+description: Associate Professor, Tongji University
 
 profile:
   align: right
@@ -18,9 +19,9 @@ years: [2026, 2025, 2024, 2023, 2022, 2021, 2020]
 
 <h2><font color="#0000dd">Brief bio</font></h2>
 
-I am an incoming associate professor (tenure-track) of **Tongji University**, Shanghai. Prior to this, I worked as a postdoc supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) at **Zhejiang University**, Hangzhou, China. I received my D. Eng. degree from **Zhejiang University** at 2023, supervised by Prof. Meiqin Liu and Prof. Ronghao Zheng. From 2022 to 2023, I was also a visiting scholar with the Robotics Institute, **University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang). 
+I am an associate professor (tenure-track) of Shanghai Reserach Institute for Intellogent Autonomous Systems(SRIAS), **Tongji University**, Shanghai. Prior to this, I worked as a postdoc supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) at **Zhejiang University**, Hangzhou, China. I received my D. Eng. degree from **Zhejiang University** at 2023, supervised by Prof. Meiqin Liu and Prof. Ronghao Zheng. From 2022 to 2023, I was a visiting scholar with the Robotics Institute, **University of Technology Sydney (UTS)** supervised by Prof. [Shoudong Huang](https://www.uts.edu.au/staff/shoudong.huang). 
 
-:sunny: :sunny: :sunny: **I'm seeking highly self-motivated visiting/research assistant/M.S./PhD students for Spring/Fall 2026.** For application, please send an email to me via [y.xu@ieee.org](mailto:y.xu@ieee.org) with the subject “[Position]+[Name]+[Affiliation]”~ Hope we can do some great and interesting things in robotics!
+:sunny: :sunny: :sunny: **I'm seeking highly self-motivated visiting/research assistant/M.S./PhD students for Spring/Fall 2026.** For application, please send an email to me via [xuyang_robot@163.com](mailto:xuyang_robot@163.com) with the subject “[Position]+[Name]+[Affiliation]”~ Hope we can do some great and interesting things in robotics!
 
 <div class="row  align-items-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,7 +33,7 @@ I am an incoming associate professor (tenure-track) of **Tongji University**, Sh
 
 <h2>Research interests</h2>
 
-My research interests include active perception, learning, and control in robotics.  My current research projects mainly focus on **robot learning for exploring hazardous and complex environments**. Welcome to reach out via email: [y.xu@ieee.org](mailto:y.xu@ieee.org).
+My research interests include active perception, learning, and control in robotics. Welcome to reach out via email: [xuyang_robot@163.com](mailto:xuyang_robot@163.com).
 
 ---
 
@@ -54,9 +55,9 @@ My research interests include active perception, learning, and control in roboti
 
 <b>Conference Services</b>: ICRA 2024, Session Co-Chair; ICUS 2024/2025, PC Member/Invited Session Chair; IROS 2025, Session Chair
 
-<b>Journal Reviewer</b>: IEEE T-NNLS/RA-L/T-ASE/T-II/T-CDS/T-ITS/T-IV/T-IM/Robotics and Autonomous Systems (RAS), IEEE/CAA Journal of Automatica Sinica (JAS), IEEE Sensor Journal, Information Fusion, Measurement Science and Technology, et al.
+<b>Journal Reviewer</b>: IEEE T-NNLS/RA-L/T-ASE/T-II/T-CDS/T-ITS/T-IV/T-IM/Robotics and Autonomous Systems, IEEE/CAA Journal of Automatica SinicaS, IEEE Sensor Journal, Information Fusion, Measurement Science and Technology, et al.
 
-<b>Conference Reviewer</b>: CVPR, ICRA, IROS, AIM, ICONIP, et al.
+<b>Conference Reviewer</b>: CVPR, ECCV, ICRA, IROS, AIM, ICONIP, et al.
 
 ---
 
