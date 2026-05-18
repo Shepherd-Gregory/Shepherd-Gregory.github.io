@@ -63,6 +63,7 @@ My research interests include active perception, life-long learning, and control
 
 <h2>Awards and honors</h2>
 
+- <b style="color:red;"> Honorable Mention Winner of IEEE RA-L Best Paper Award (5/1700+), 2025</b>
 - National Postdoctoral Program for Innovative Talents (10 in automation nationwide), 2024
 - Chinese National Scholarship for Ph.D. Students (2%), Oct. 2022
 - Chinese Scholarship Council for Joint Ph.D. Students, Jul. 2022
@@ -92,5 +93,4 @@ My research interests include active perception, life-long learning, and control
 - PI, China Postdoctoral Innovation Talents Support Program, 2024 -2025
 - PI, China Postdoctoral Science Foundation General Project, 2024 -2025
 - Participant, National Key Research and Development Program of China, Key project, 2025-2028
-- Participant, NSFC, Key International (Regional) Joint Research 
-Program, 2026-2030
+- Participant, NSFC, Key International (Regional) Joint Research Program, 2026-2030
